@@ -1,0 +1,6813 @@
+[
+ {
+  "Province": "Adana",
+  "District": "ALADAĞ",
+  "Erdogan": 64.2,
+  "Kilicdaroglu": 35.8,
+  "Turnout": 89.9
+ },
+ {
+  "Province": "Adana",
+  "District": "CEYHAN",
+  "Erdogan": 47.4,
+  "Kilicdaroglu": 52.6,
+  "Turnout": 84.7
+ },
+ {
+  "Province": "Adana",
+  "District": "ÇUKUROVA",
+  "Erdogan": 33.2,
+  "Kilicdaroglu": 66.8,
+  "Turnout": 87.3
+ },
+ {
+  "Province": "Adana",
+  "District": "FEKE",
+  "Erdogan": 68.9,
+  "Kilicdaroglu": 31.1,
+  "Turnout": 84.5
+ },
+ {
+  "Province": "Adana",
+  "District": "İMAMOĞLU",
+  "Erdogan": 67.5,
+  "Kilicdaroglu": 32.5,
+  "Turnout": 87.5
+ },
+ {
+  "Province": "Adana",
+  "District": "KARAİSALI",
+  "Erdogan": 74.1,
+  "Kilicdaroglu": 25.9,
+  "Turnout": 90.4
+ },
+ {
+  "Province": "Adana",
+  "District": "KARATAŞ",
+  "Erdogan": 37.9,
+  "Kilicdaroglu": 62.1,
+  "Turnout": 88
+ },
+ {
+  "Province": "Adana",
+  "District": "KOZAN",
+  "Erdogan": 63.6,
+  "Kilicdaroglu": 36.4,
+  "Turnout": 84.6
+ },
+ {
+  "Province": "Adana",
+  "District": "POZANTI",
+  "Erdogan": 62,
+  "Kilicdaroglu": 38,
+  "Turnout": 86.5
+ },
+ {
+  "Province": "Adana",
+  "District": "SAİMBEYLİ",
+  "Erdogan": 77.8,
+  "Kilicdaroglu": 22.2,
+  "Turnout": 81.5
+ },
+ {
+  "Province": "Adana",
+  "District": "SARIÇAM",
+  "Erdogan": 59.8,
+  "Kilicdaroglu": 40.2,
+  "Turnout": 85.8
+ },
+ {
+  "Province": "Adana",
+  "District": "SEYHAN",
+  "Erdogan": 39.4,
+  "Kilicdaroglu": 60.6,
+  "Turnout": 83.8
+ },
+ {
+  "Province": "Adana",
+  "District": "TUFANBEYLİ",
+  "Erdogan": 64.4,
+  "Kilicdaroglu": 35.6,
+  "Turnout": 86.3
+ },
+ {
+  "Province": "Adana",
+  "District": "YUMURTALIK",
+  "Erdogan": 54.3,
+  "Kilicdaroglu": 45.7,
+  "Turnout": 87.9
+ },
+ {
+  "Province": "Adana",
+  "District": "YÜREĞİR",
+  "Erdogan": 50.5,
+  "Kilicdaroglu": 49.5,
+  "Turnout": 81.9
+ },
+ {
+  "Province": "Adıyaman",
+  "District": "BESNİ",
+  "Erdogan": 65.2,
+  "Kilicdaroglu": 34.8,
+  "Turnout": 77.2
+ },
+ {
+  "Province": "Adıyaman",
+  "District": "ÇELİKHAN",
+  "Erdogan": 63.5,
+  "Kilicdaroglu": 36.5,
+  "Turnout": 88.5
+ },
+ {
+  "Province": "Adıyaman",
+  "District": "GERGER",
+  "Erdogan": 87.1,
+  "Kilicdaroglu": 12.9,
+  "Turnout": 76.2
+ },
+ {
+  "Province": "Adıyaman",
+  "District": "GÖLBAŞI",
+  "Erdogan": 62.6,
+  "Kilicdaroglu": 37.4,
+  "Turnout": 79.7
+ },
+ {
+  "Province": "Adıyaman",
+  "District": "KAHTA",
+  "Erdogan": 81.4,
+  "Kilicdaroglu": 18.6,
+  "Turnout": 83.3
+ },
+ {
+  "Province": "Adıyaman",
+  "District": "MERKEZ",
+  "Erdogan": 62,
+  "Kilicdaroglu": 38,
+  "Turnout": 77.8
+ },
+ {
+  "Province": "Adıyaman",
+  "District": "SAMSAT",
+  "Erdogan": 90.1,
+  "Kilicdaroglu": 9.9,
+  "Turnout": 95.6
+ },
+ {
+  "Province": "Adıyaman",
+  "District": "SİNCİK",
+  "Erdogan": 94.6,
+  "Kilicdaroglu": 5.4,
+  "Turnout": 90.8
+ },
+ {
+  "Province": "Adıyaman",
+  "District": "TUT",
+  "Erdogan": 67.6,
+  "Kilicdaroglu": 32.4,
+  "Turnout": 83.8
+ },
+ {
+  "Province": "Afyonkarahisar",
+  "District": "BAŞMAKÇI",
+  "Erdogan": 61.4,
+  "Kilicdaroglu": 38.6,
+  "Turnout": 89.2
+ },
+ {
+  "Province": "Afyonkarahisar",
+  "District": "BAYAT",
+  "Erdogan": 68.4,
+  "Kilicdaroglu": 31.6,
+  "Turnout": 86.7
+ },
+ {
+  "Province": "Afyonkarahisar",
+  "District": "BOLVADİN",
+  "Erdogan": 75.4,
+  "Kilicdaroglu": 24.6,
+  "Turnout": 87.8
+ },
+ {
+  "Province": "Afyonkarahisar",
+  "District": "ÇAY",
+  "Erdogan": 61.7,
+  "Kilicdaroglu": 38.3,
+  "Turnout": 85.8
+ },
+ {
+  "Province": "Afyonkarahisar",
+  "District": "ÇOBANLAR",
+  "Erdogan": 69.4,
+  "Kilicdaroglu": 30.6,
+  "Turnout": 90.5
+ },
+ {
+  "Province": "Afyonkarahisar",
+  "District": "DAZKIRI",
+  "Erdogan": 62.7,
+  "Kilicdaroglu": 37.3,
+  "Turnout": 90.4
+ },
+ {
+  "Province": "Afyonkarahisar",
+  "District": "DİNAR",
+  "Erdogan": 59.8,
+  "Kilicdaroglu": 40.2,
+  "Turnout": 85
+ },
+ {
+  "Province": "Afyonkarahisar",
+  "District": "EMİRDAĞ",
+  "Erdogan": 62.8,
+  "Kilicdaroglu": 37.2,
+  "Turnout": 68.2
+ },
+ {
+  "Province": "Afyonkarahisar",
+  "District": "EVCİLER",
+  "Erdogan": 60,
+  "Kilicdaroglu": 40,
+  "Turnout": 88.7
+ },
+ {
+  "Province": "Afyonkarahisar",
+  "District": "HOCALAR",
+  "Erdogan": 79.3,
+  "Kilicdaroglu": 20.7,
+  "Turnout": 86
+ },
+ {
+  "Province": "Afyonkarahisar",
+  "District": "İHSANİYE",
+  "Erdogan": 80.6,
+  "Kilicdaroglu": 19.4,
+  "Turnout": 91.4
+ },
+ {
+  "Province": "Afyonkarahisar",
+  "District": "İSCEHİSAR",
+  "Erdogan": 79.5,
+  "Kilicdaroglu": 20.5,
+  "Turnout": 91.8
+ },
+ {
+  "Province": "Afyonkarahisar",
+  "District": "KIZILÖREN",
+  "Erdogan": 61.8,
+  "Kilicdaroglu": 38.2,
+  "Turnout": 84.6
+ },
+ {
+  "Province": "Afyonkarahisar",
+  "District": "MERKEZ",
+  "Erdogan": 67,
+  "Kilicdaroglu": 33,
+  "Turnout": 89.9
+ },
+ {
+  "Province": "Afyonkarahisar",
+  "District": "SANDIKLI",
+  "Erdogan": 70.5,
+  "Kilicdaroglu": 29.5,
+  "Turnout": 85.1
+ },
+ {
+  "Province": "Afyonkarahisar",
+  "District": "SİNANPAŞA",
+  "Erdogan": 75.3,
+  "Kilicdaroglu": 24.7,
+  "Turnout": 88.1
+ },
+ {
+  "Province": "Afyonkarahisar",
+  "District": "ŞUHUT",
+  "Erdogan": 71.7,
+  "Kilicdaroglu": 28.3,
+  "Turnout": 90.1
+ },
+ {
+  "Province": "Afyonkarahisar",
+  "District": "SULTANDAĞI",
+  "Erdogan": 36.1,
+  "Kilicdaroglu": 63.9,
+  "Turnout": 87.7
+ },
+ {
+  "Province": "Ağrı",
+  "District": "DİYADİN",
+  "Erdogan": 25.7,
+  "Kilicdaroglu": 74.3,
+  "Turnout": 60.3
+ },
+ {
+  "Province": "Ağrı",
+  "District": "DOĞUBAYAZIT",
+  "Erdogan": 17.8,
+  "Kilicdaroglu": 82.2,
+  "Turnout": 67.6
+ },
+ {
+  "Province": "Ağrı",
+  "District": "ELEŞKİRT",
+  "Erdogan": 62.5,
+  "Kilicdaroglu": 37.5,
+  "Turnout": 65.4
+ },
+ {
+  "Province": "Ağrı",
+  "District": "HAMUR",
+  "Erdogan": 42.4,
+  "Kilicdaroglu": 57.6,
+  "Turnout": 63
+ },
+ {
+  "Province": "Ağrı",
+  "District": "MERKEZ",
+  "Erdogan": 46.4,
+  "Kilicdaroglu": 53.6,
+  "Turnout": 70.3
+ },
+ {
+  "Province": "Ağrı",
+  "District": "PATNOS",
+  "Erdogan": 27.6,
+  "Kilicdaroglu": 72.4,
+  "Turnout": 59.4
+ },
+ {
+  "Province": "Ağrı",
+  "District": "TAŞLIÇAY",
+  "Erdogan": 31.2,
+  "Kilicdaroglu": 68.8,
+  "Turnout": 68.3
+ },
+ {
+  "Province": "Ağrı",
+  "District": "TUTAK",
+  "Erdogan": 41.7,
+  "Kilicdaroglu": 58.3,
+  "Turnout": 66.8
+ },
+ {
+  "Province": "Aksaray",
+  "District": "AĞAÇÖREN",
+  "Erdogan": 82.2,
+  "Kilicdaroglu": 17.8,
+  "Turnout": 82.4
+ },
+ {
+  "Province": "Aksaray",
+  "District": "ESKİL",
+  "Erdogan": 80.4,
+  "Kilicdaroglu": 19.6,
+  "Turnout": 88.9
+ },
+ {
+  "Province": "Aksaray",
+  "District": "GÜLAĞAÇ",
+  "Erdogan": 70.5,
+  "Kilicdaroglu": 29.5,
+  "Turnout": 79
+ },
+ {
+  "Province": "Aksaray",
+  "District": "GÜZELYURT",
+  "Erdogan": 76.3,
+  "Kilicdaroglu": 23.7,
+  "Turnout": 85
+ },
+ {
+  "Province": "Aksaray",
+  "District": "MERKEZ",
+  "Erdogan": 74.9,
+  "Kilicdaroglu": 25.1,
+  "Turnout": 84.4
+ },
+ {
+  "Province": "Aksaray",
+  "District": "ORTAKÖY",
+  "Erdogan": 78.3,
+  "Kilicdaroglu": 21.7,
+  "Turnout": 81.9
+ },
+ {
+  "Province": "Aksaray",
+  "District": "SARIYAHŞİ",
+  "Erdogan": 72.1,
+  "Kilicdaroglu": 27.9,
+  "Turnout": 70.3
+ },
+ {
+  "Province": "Aksaray",
+  "District": "SULTANHANI",
+  "Erdogan": 72.2,
+  "Kilicdaroglu": 27.8,
+  "Turnout": 89.4
+ },
+ {
+  "Province": "Amasya",
+  "District": "GÖYNÜCEK",
+  "Erdogan": 68.3,
+  "Kilicdaroglu": 31.7,
+  "Turnout": 91.1
+ },
+ {
+  "Province": "Amasya",
+  "District": "GÜMÜŞHACIKÖY",
+  "Erdogan": 43.6,
+  "Kilicdaroglu": 56.4,
+  "Turnout": 92.3
+ },
+ {
+  "Province": "Amasya",
+  "District": "HAMAMÖZÜ",
+  "Erdogan": 67.9,
+  "Kilicdaroglu": 32.1,
+  "Turnout": 90.3
+ },
+ {
+  "Province": "Amasya",
+  "District": "MERKEZ",
+  "Erdogan": 58.1,
+  "Kilicdaroglu": 41.9,
+  "Turnout": 90
+ },
+ {
+  "Province": "Amasya",
+  "District": "MERZİFON",
+  "Erdogan": 51.8,
+  "Kilicdaroglu": 48.2,
+  "Turnout": 89.5
+ },
+ {
+  "Province": "Amasya",
+  "District": "SULUOVA",
+  "Erdogan": 74.4,
+  "Kilicdaroglu": 25.6,
+  "Turnout": 89.2
+ },
+ {
+  "Province": "Amasya",
+  "District": "TAŞOVA",
+  "Erdogan": 66.8,
+  "Kilicdaroglu": 33.2,
+  "Turnout": 88.1
+ },
+ {
+  "Province": "Ankara",
+  "District": "AKYURT",
+  "Erdogan": 76.3,
+  "Kilicdaroglu": 23.7,
+  "Turnout": 88.9
+ },
+ {
+  "Province": "Ankara",
+  "District": "ALTINDAĞ",
+  "Erdogan": 63.2,
+  "Kilicdaroglu": 36.8,
+  "Turnout": 86.3
+ },
+ {
+  "Province": "Ankara",
+  "District": "AYAŞ",
+  "Erdogan": 58.9,
+  "Kilicdaroglu": 41.1,
+  "Turnout": 90.9
+ },
+ {
+  "Province": "Ankara",
+  "District": "BALA",
+  "Erdogan": 65.4,
+  "Kilicdaroglu": 34.6,
+  "Turnout": 79.2
+ },
+ {
+  "Province": "Ankara",
+  "District": "BEYPAZARI",
+  "Erdogan": 60.9,
+  "Kilicdaroglu": 39.1,
+  "Turnout": 87
+ },
+ {
+  "Province": "Ankara",
+  "District": "ÇAMLIDERE",
+  "Erdogan": 80.5,
+  "Kilicdaroglu": 19.5,
+  "Turnout": 87
+ },
+ {
+  "Province": "Ankara",
+  "District": "ÇANKAYA",
+  "Erdogan": 21.8,
+  "Kilicdaroglu": 78.2,
+  "Turnout": 89.8
+ },
+ {
+  "Province": "Ankara",
+  "District": "ÇUBUK",
+  "Erdogan": 75.2,
+  "Kilicdaroglu": 24.8,
+  "Turnout": 88.3
+ },
+ {
+  "Province": "Ankara",
+  "District": "ELMADAĞ",
+  "Erdogan": 50.9,
+  "Kilicdaroglu": 49.1,
+  "Turnout": 89.8
+ },
+ {
+  "Province": "Ankara",
+  "District": "ETİMESGUT",
+  "Erdogan": 43.3,
+  "Kilicdaroglu": 56.7,
+  "Turnout": 88.7
+ },
+ {
+  "Province": "Ankara",
+  "District": "EVREN",
+  "Erdogan": 65.8,
+  "Kilicdaroglu": 34.2,
+  "Turnout": 80.5
+ },
+ {
+  "Province": "Ankara",
+  "District": "GÖLBAŞI",
+  "Erdogan": 50.5,
+  "Kilicdaroglu": 49.5,
+  "Turnout": 88.3
+ },
+ {
+  "Province": "Ankara",
+  "District": "GÜDÜL",
+  "Erdogan": 68.6,
+  "Kilicdaroglu": 31.4,
+  "Turnout": 86.5
+ },
+ {
+  "Province": "Ankara",
+  "District": "HAYMANA",
+  "Erdogan": 66.6,
+  "Kilicdaroglu": 33.4,
+  "Turnout": 78.7
+ },
+ {
+  "Province": "Ankara",
+  "District": "KAHRAMANKAZAN",
+  "Erdogan": 67.3,
+  "Kilicdaroglu": 32.7,
+  "Turnout": 88.3
+ },
+ {
+  "Province": "Ankara",
+  "District": "KALECİK",
+  "Erdogan": 68.3,
+  "Kilicdaroglu": 31.7,
+  "Turnout": 89.1
+ },
+ {
+  "Province": "Ankara",
+  "District": "KEÇİÖREN",
+  "Erdogan": 55.7,
+  "Kilicdaroglu": 44.3,
+  "Turnout": 86.9
+ },
+ {
+  "Province": "Ankara",
+  "District": "KIZILCAHAMAM",
+  "Erdogan": 71.1,
+  "Kilicdaroglu": 28.9,
+  "Turnout": 87.6
+ },
+ {
+  "Province": "Ankara",
+  "District": "MAMAK",
+  "Erdogan": 49.8,
+  "Kilicdaroglu": 50.2,
+  "Turnout": 87.9
+ },
+ {
+  "Province": "Ankara",
+  "District": "NALLIHAN",
+  "Erdogan": 58.3,
+  "Kilicdaroglu": 41.7,
+  "Turnout": 87.3
+ },
+ {
+  "Province": "Ankara",
+  "District": "POLATLI",
+  "Erdogan": 55.3,
+  "Kilicdaroglu": 44.7,
+  "Turnout": 83.6
+ },
+ {
+  "Province": "Ankara",
+  "District": "PURSAKLAR",
+  "Erdogan": 73.9,
+  "Kilicdaroglu": 26.1,
+  "Turnout": 88.9
+ },
+ {
+  "Province": "Ankara",
+  "District": "ŞEREFLİKOÇHİSAR",
+  "Erdogan": 59.2,
+  "Kilicdaroglu": 40.8,
+  "Turnout": 80.4
+ },
+ {
+  "Province": "Ankara",
+  "District": "SİNCAN",
+  "Erdogan": 65,
+  "Kilicdaroglu": 35,
+  "Turnout": 87.8
+ },
+ {
+  "Province": "Ankara",
+  "District": "YENİMAHALLE",
+  "Erdogan": 41.9,
+  "Kilicdaroglu": 58.1,
+  "Turnout": 89.3
+ },
+ {
+  "Province": "Antalya",
+  "District": "AKSEKİ",
+  "Erdogan": 59,
+  "Kilicdaroglu": 41,
+  "Turnout": 83.9
+ },
+ {
+  "Province": "Antalya",
+  "District": "AKSU",
+  "Erdogan": 48.8,
+  "Kilicdaroglu": 51.2,
+  "Turnout": 85.6
+ },
+ {
+  "Province": "Antalya",
+  "District": "ALANYA",
+  "Erdogan": 47.3,
+  "Kilicdaroglu": 52.7,
+  "Turnout": 83.6
+ },
+ {
+  "Province": "Antalya",
+  "District": "DEMRE",
+  "Erdogan": 50.6,
+  "Kilicdaroglu": 49.4,
+  "Turnout": 89.3
+ },
+ {
+  "Province": "Antalya",
+  "District": "DÖŞEMEALTI",
+  "Erdogan": 47.6,
+  "Kilicdaroglu": 52.4,
+  "Turnout": 89.2
+ },
+ {
+  "Province": "Antalya",
+  "District": "ELMALI",
+  "Erdogan": 53.8,
+  "Kilicdaroglu": 46.2,
+  "Turnout": 89.4
+ },
+ {
+  "Province": "Antalya",
+  "District": "FİNİKE",
+  "Erdogan": 50,
+  "Kilicdaroglu": 50,
+  "Turnout": 86.2
+ },
+ {
+  "Province": "Antalya",
+  "District": "GAZİPAŞA",
+  "Erdogan": 43.9,
+  "Kilicdaroglu": 56.1,
+  "Turnout": 88.7
+ },
+ {
+  "Province": "Antalya",
+  "District": "GÜNDOĞMUŞ",
+  "Erdogan": 56.5,
+  "Kilicdaroglu": 43.5,
+  "Turnout": 85.1
+ },
+ {
+  "Province": "Antalya",
+  "District": "İBRADI",
+  "Erdogan": 49.4,
+  "Kilicdaroglu": 50.6,
+  "Turnout": 87.9
+ },
+ {
+  "Province": "Antalya",
+  "District": "KAŞ",
+  "Erdogan": 45.2,
+  "Kilicdaroglu": 54.8,
+  "Turnout": 87.5
+ },
+ {
+  "Province": "Antalya",
+  "District": "KEMER",
+  "Erdogan": 43.2,
+  "Kilicdaroglu": 56.8,
+  "Turnout": 84.8
+ },
+ {
+  "Province": "Antalya",
+  "District": "KEPEZ",
+  "Erdogan": 45.7,
+  "Kilicdaroglu": 54.3,
+  "Turnout": 85.3
+ },
+ {
+  "Province": "Antalya",
+  "District": "KONYAALTI",
+  "Erdogan": 27.2,
+  "Kilicdaroglu": 72.8,
+  "Turnout": 86.3
+ },
+ {
+  "Province": "Antalya",
+  "District": "KORKUTELİ",
+  "Erdogan": 57,
+  "Kilicdaroglu": 43,
+  "Turnout": 88.2
+ },
+ {
+  "Province": "Antalya",
+  "District": "KUMLUCA",
+  "Erdogan": 52.7,
+  "Kilicdaroglu": 47.3,
+  "Turnout": 88.8
+ },
+ {
+  "Province": "Antalya",
+  "District": "MANAVGAT",
+  "Erdogan": 46.9,
+  "Kilicdaroglu": 53.1,
+  "Turnout": 85.3
+ },
+ {
+  "Province": "Antalya",
+  "District": "MURATPAŞA",
+  "Erdogan": 31,
+  "Kilicdaroglu": 69,
+  "Turnout": 85.5
+ },
+ {
+  "Province": "Antalya",
+  "District": "SERİK",
+  "Erdogan": 44.3,
+  "Kilicdaroglu": 55.7,
+  "Turnout": 85.2
+ },
+ {
+  "Province": "Ardahan",
+  "District": "ÇILDIR",
+  "Erdogan": 52.1,
+  "Kilicdaroglu": 47.9,
+  "Turnout": 77.7
+ },
+ {
+  "Province": "Ardahan",
+  "District": "DAMAL",
+  "Erdogan": 5.1,
+  "Kilicdaroglu": 94.9,
+  "Turnout": 88.9
+ },
+ {
+  "Province": "Ardahan",
+  "District": "GÖLE",
+  "Erdogan": 47.4,
+  "Kilicdaroglu": 52.6,
+  "Turnout": 74.4
+ },
+ {
+  "Province": "Ardahan",
+  "District": "HANAK",
+  "Erdogan": 33.4,
+  "Kilicdaroglu": 66.6,
+  "Turnout": 84.6
+ },
+ {
+  "Province": "Ardahan",
+  "District": "MERKEZ",
+  "Erdogan": 40.5,
+  "Kilicdaroglu": 59.5,
+  "Turnout": 79.4
+ },
+ {
+  "Province": "Ardahan",
+  "District": "POSOF",
+  "Erdogan": 66.2,
+  "Kilicdaroglu": 33.8,
+  "Turnout": 83.7
+ },
+ {
+  "Province": "Artvin",
+  "District": "ARDANUÇ",
+  "Erdogan": 39.5,
+  "Kilicdaroglu": 60.5,
+  "Turnout": 86.1
+ },
+ {
+  "Province": "Artvin",
+  "District": "ARHAVİ",
+  "Erdogan": 55,
+  "Kilicdaroglu": 45,
+  "Turnout": 86.8
+ },
+ {
+  "Province": "Artvin",
+  "District": "BORÇKA",
+  "Erdogan": 64.2,
+  "Kilicdaroglu": 35.8,
+  "Turnout": 87.2
+ },
+ {
+  "Province": "Artvin",
+  "District": "HOPA",
+  "Erdogan": 38,
+  "Kilicdaroglu": 62,
+  "Turnout": 87.6
+ },
+ {
+  "Province": "Artvin",
+  "District": "KEMALPAŞA",
+  "Erdogan": 31.1,
+  "Kilicdaroglu": 68.9,
+  "Turnout": 89.9
+ },
+ {
+  "Province": "Artvin",
+  "District": "MERKEZ",
+  "Erdogan": 48,
+  "Kilicdaroglu": 52,
+  "Turnout": 89
+ },
+ {
+  "Province": "Artvin",
+  "District": "MURGUL",
+  "Erdogan": 50.7,
+  "Kilicdaroglu": 49.3,
+  "Turnout": 85.8
+ },
+ {
+  "Province": "Artvin",
+  "District": "ŞAVŞAT",
+  "Erdogan": 44.8,
+  "Kilicdaroglu": 55.2,
+  "Turnout": 85.2
+ },
+ {
+  "Province": "Artvin",
+  "District": "YUSUFELİ",
+  "Erdogan": 74.8,
+  "Kilicdaroglu": 25.2,
+  "Turnout": 82.7
+ },
+ {
+  "Province": "Aydın",
+  "District": "BOZDOĞAN",
+  "Erdogan": 50.9,
+  "Kilicdaroglu": 49.1,
+  "Turnout": 88.5
+ },
+ {
+  "Province": "Aydın",
+  "District": "BUHARKENT",
+  "Erdogan": 45.8,
+  "Kilicdaroglu": 54.2,
+  "Turnout": 88.4
+ },
+ {
+  "Province": "Aydın",
+  "District": "ÇİNE",
+  "Erdogan": 46.7,
+  "Kilicdaroglu": 53.3,
+  "Turnout": 89.2
+ },
+ {
+  "Province": "Aydın",
+  "District": "DİDİM",
+  "Erdogan": 27.1,
+  "Kilicdaroglu": 72.9,
+  "Turnout": 82.8
+ },
+ {
+  "Province": "Aydın",
+  "District": "EFELER",
+  "Erdogan": 38.5,
+  "Kilicdaroglu": 61.5,
+  "Turnout": 87.7
+ },
+ {
+  "Province": "Aydın",
+  "District": "GERMENCİK",
+  "Erdogan": 41.1,
+  "Kilicdaroglu": 58.9,
+  "Turnout": 88.4
+ },
+ {
+  "Province": "Aydın",
+  "District": "İNCİRLİOVA",
+  "Erdogan": 49,
+  "Kilicdaroglu": 51,
+  "Turnout": 86.8
+ },
+ {
+  "Province": "Aydın",
+  "District": "KARACASU",
+  "Erdogan": 48.3,
+  "Kilicdaroglu": 51.7,
+  "Turnout": 87.1
+ },
+ {
+  "Province": "Aydın",
+  "District": "KARPUZLU",
+  "Erdogan": 62.4,
+  "Kilicdaroglu": 37.6,
+  "Turnout": 88.4
+ },
+ {
+  "Province": "Aydın",
+  "District": "KOÇARLI",
+  "Erdogan": 56.8,
+  "Kilicdaroglu": 43.2,
+  "Turnout": 91
+ },
+ {
+  "Province": "Aydın",
+  "District": "KÖŞK",
+  "Erdogan": 65,
+  "Kilicdaroglu": 35,
+  "Turnout": 89.7
+ },
+ {
+  "Province": "Aydın",
+  "District": "KUŞADASI",
+  "Erdogan": 27.4,
+  "Kilicdaroglu": 72.6,
+  "Turnout": 83.4
+ },
+ {
+  "Province": "Aydın",
+  "District": "KUYUCAK",
+  "Erdogan": 47.8,
+  "Kilicdaroglu": 52.2,
+  "Turnout": 89.3
+ },
+ {
+  "Province": "Aydın",
+  "District": "NAZİLLİ",
+  "Erdogan": 43.5,
+  "Kilicdaroglu": 56.5,
+  "Turnout": 86.2
+ },
+ {
+  "Province": "Aydın",
+  "District": "SÖKE",
+  "Erdogan": 36.4,
+  "Kilicdaroglu": 63.6,
+  "Turnout": 86.3
+ },
+ {
+  "Province": "Aydın",
+  "District": "SULTANHİSAR",
+  "Erdogan": 44.9,
+  "Kilicdaroglu": 55.1,
+  "Turnout": 88.6
+ },
+ {
+  "Province": "Aydın",
+  "District": "YENİPAZAR",
+  "Erdogan": 52.2,
+  "Kilicdaroglu": 47.8,
+  "Turnout": 89.5
+ },
+ {
+  "Province": "Balıkesir",
+  "District": "ALTIEYLÜL",
+  "Erdogan": 52.6,
+  "Kilicdaroglu": 47.4,
+  "Turnout": 88.6
+ },
+ {
+  "Province": "Balıkesir",
+  "District": "AYVALIK",
+  "Erdogan": 27.8,
+  "Kilicdaroglu": 72.2,
+  "Turnout": 86.6
+ },
+ {
+  "Province": "Balıkesir",
+  "District": "BALYA",
+  "Erdogan": 52.2,
+  "Kilicdaroglu": 47.8,
+  "Turnout": 91.4
+ },
+ {
+  "Province": "Balıkesir",
+  "District": "BANDIRMA",
+  "Erdogan": 39.4,
+  "Kilicdaroglu": 60.6,
+  "Turnout": 87.7
+ },
+ {
+  "Province": "Balıkesir",
+  "District": "BİGADİÇ",
+  "Erdogan": 61.2,
+  "Kilicdaroglu": 38.8,
+  "Turnout": 89.3
+ },
+ {
+  "Province": "Balıkesir",
+  "District": "BURHANİYE",
+  "Erdogan": 37.5,
+  "Kilicdaroglu": 62.5,
+  "Turnout": 88.5
+ },
+ {
+  "Province": "Balıkesir",
+  "District": "DURSUNBEY",
+  "Erdogan": 80.8,
+  "Kilicdaroglu": 19.2,
+  "Turnout": 88.9
+ },
+ {
+  "Province": "Balıkesir",
+  "District": "EDREMİT",
+  "Erdogan": 35.2,
+  "Kilicdaroglu": 64.8,
+  "Turnout": 85.6
+ },
+ {
+  "Province": "Balıkesir",
+  "District": "ERDEK",
+  "Erdogan": 34.5,
+  "Kilicdaroglu": 65.5,
+  "Turnout": 86.3
+ },
+ {
+  "Province": "Balıkesir",
+  "District": "GÖMEÇ",
+  "Erdogan": 36,
+  "Kilicdaroglu": 64,
+  "Turnout": 87.6
+ },
+ {
+  "Province": "Balıkesir",
+  "District": "GÖNEN",
+  "Erdogan": 51.7,
+  "Kilicdaroglu": 48.3,
+  "Turnout": 88.5
+ },
+ {
+  "Province": "Balıkesir",
+  "District": "HAVRAN",
+  "Erdogan": 66.4,
+  "Kilicdaroglu": 33.6,
+  "Turnout": 90.6
+ },
+ {
+  "Province": "Balıkesir",
+  "District": "İVRİNDİ",
+  "Erdogan": 66.3,
+  "Kilicdaroglu": 33.7,
+  "Turnout": 92
+ },
+ {
+  "Province": "Balıkesir",
+  "District": "KARESİ",
+  "Erdogan": 53,
+  "Kilicdaroglu": 47,
+  "Turnout": 89.4
+ },
+ {
+  "Province": "Balıkesir",
+  "District": "KEPSUT",
+  "Erdogan": 72.3,
+  "Kilicdaroglu": 27.7,
+  "Turnout": 94.1
+ },
+ {
+  "Province": "Balıkesir",
+  "District": "MANYAS",
+  "Erdogan": 46,
+  "Kilicdaroglu": 54,
+  "Turnout": 88.9
+ },
+ {
+  "Province": "Balıkesir",
+  "District": "MARMARA",
+  "Erdogan": 44.5,
+  "Kilicdaroglu": 55.5,
+  "Turnout": 85.4
+ },
+ {
+  "Province": "Balıkesir",
+  "District": "SAVAŞTEPE",
+  "Erdogan": 61,
+  "Kilicdaroglu": 39,
+  "Turnout": 89.5
+ },
+ {
+  "Province": "Balıkesir",
+  "District": "SINDIRGI",
+  "Erdogan": 57.6,
+  "Kilicdaroglu": 42.4,
+  "Turnout": 90.1
+ },
+ {
+  "Province": "Balıkesir",
+  "District": "SUSURLUK",
+  "Erdogan": 48.7,
+  "Kilicdaroglu": 51.3,
+  "Turnout": 88.6
+ },
+ {
+  "Province": "Bartın",
+  "District": "AMASRA",
+  "Erdogan": 49.2,
+  "Kilicdaroglu": 50.8,
+  "Turnout": 84.4
+ },
+ {
+  "Province": "Bartın",
+  "District": "KURUCAŞİLE",
+  "Erdogan": 56.9,
+  "Kilicdaroglu": 43.1,
+  "Turnout": 83.6
+ },
+ {
+  "Province": "Bartın",
+  "District": "MERKEZ",
+  "Erdogan": 59.3,
+  "Kilicdaroglu": 40.7,
+  "Turnout": 85.1
+ },
+ {
+  "Province": "Bartın",
+  "District": "ULUS",
+  "Erdogan": 71.9,
+  "Kilicdaroglu": 28.1,
+  "Turnout": 86.3
+ },
+ {
+  "Province": "Batman",
+  "District": "BEŞİRİ",
+  "Erdogan": 36.1,
+  "Kilicdaroglu": 63.9,
+  "Turnout": 82.8
+ },
+ {
+  "Province": "Batman",
+  "District": "GERCÜŞ",
+  "Erdogan": 53.9,
+  "Kilicdaroglu": 46.1,
+  "Turnout": 76.7
+ },
+ {
+  "Province": "Batman",
+  "District": "HASANKEYF",
+  "Erdogan": 50.1,
+  "Kilicdaroglu": 49.9,
+  "Turnout": 79.2
+ },
+ {
+  "Province": "Batman",
+  "District": "KOZLUK",
+  "Erdogan": 36.7,
+  "Kilicdaroglu": 63.3,
+  "Turnout": 79.9
+ },
+ {
+  "Province": "Batman",
+  "District": "MERKEZ",
+  "Erdogan": 28.2,
+  "Kilicdaroglu": 71.8,
+  "Turnout": 80.7
+ },
+ {
+  "Province": "Batman",
+  "District": "SASON",
+  "Erdogan": 62,
+  "Kilicdaroglu": 38,
+  "Turnout": 75.1
+ },
+ {
+  "Province": "Bayburt",
+  "District": "AYDINTEPE",
+  "Erdogan": 81.1,
+  "Kilicdaroglu": 18.9,
+  "Turnout": 84.5
+ },
+ {
+  "Province": "Bayburt",
+  "District": "DEMİRÖZÜ",
+  "Erdogan": 88.7,
+  "Kilicdaroglu": 11.3,
+  "Turnout": 91
+ },
+ {
+  "Province": "Bayburt",
+  "District": "MERKEZ",
+  "Erdogan": 81.8,
+  "Kilicdaroglu": 18.2,
+  "Turnout": 85.1
+ },
+ {
+  "Province": "Bilecik",
+  "District": "BOZÜYÜK",
+  "Erdogan": 49.8,
+  "Kilicdaroglu": 50.2,
+  "Turnout": 89.6
+ },
+ {
+  "Province": "Bilecik",
+  "District": "GÖLPAZARI",
+  "Erdogan": 58.3,
+  "Kilicdaroglu": 41.7,
+  "Turnout": 86.7
+ },
+ {
+  "Province": "Bilecik",
+  "District": "İNHİSAR",
+  "Erdogan": 60.4,
+  "Kilicdaroglu": 39.6,
+  "Turnout": 87.6
+ },
+ {
+  "Province": "Bilecik",
+  "District": "MERKEZ",
+  "Erdogan": 51.9,
+  "Kilicdaroglu": 48.1,
+  "Turnout": 88.4
+ },
+ {
+  "Province": "Bilecik",
+  "District": "OSMANELİ",
+  "Erdogan": 58.6,
+  "Kilicdaroglu": 41.4,
+  "Turnout": 88.9
+ },
+ {
+  "Province": "Bilecik",
+  "District": "PAZARYERİ",
+  "Erdogan": 61.6,
+  "Kilicdaroglu": 38.4,
+  "Turnout": 88.3
+ },
+ {
+  "Province": "Bilecik",
+  "District": "SÖĞÜT",
+  "Erdogan": 59.7,
+  "Kilicdaroglu": 40.3,
+  "Turnout": 89.3
+ },
+ {
+  "Province": "Bilecik",
+  "District": "YENİPAZAR",
+  "Erdogan": 65.1,
+  "Kilicdaroglu": 34.9,
+  "Turnout": 89.6
+ },
+ {
+  "Province": "Bingöl",
+  "District": "ADAKLI",
+  "Erdogan": 64.2,
+  "Kilicdaroglu": 35.8,
+  "Turnout": 78.5
+ },
+ {
+  "Province": "Bingöl",
+  "District": "GENÇ",
+  "Erdogan": 82.2,
+  "Kilicdaroglu": 17.8,
+  "Turnout": 74.8
+ },
+ {
+  "Province": "Bingöl",
+  "District": "KARLIOVA",
+  "Erdogan": 45.7,
+  "Kilicdaroglu": 54.3,
+  "Turnout": 66.3
+ },
+ {
+  "Province": "Bingöl",
+  "District": "KİĞI",
+  "Erdogan": 40.6,
+  "Kilicdaroglu": 59.4,
+  "Turnout": 78.6
+ },
+ {
+  "Province": "Bingöl",
+  "District": "MERKEZ",
+  "Erdogan": 68.1,
+  "Kilicdaroglu": 31.9,
+  "Turnout": 75.2
+ },
+ {
+  "Province": "Bingöl",
+  "District": "SOLHAN",
+  "Erdogan": 81.3,
+  "Kilicdaroglu": 18.7,
+  "Turnout": 74.7
+ },
+ {
+  "Province": "Bingöl",
+  "District": "YAYLADERE",
+  "Erdogan": 30.8,
+  "Kilicdaroglu": 69.2,
+  "Turnout": 77.6
+ },
+ {
+  "Province": "Bingöl",
+  "District": "YEDİSU",
+  "Erdogan": 30.8,
+  "Kilicdaroglu": 69.2,
+  "Turnout": 90.2
+ },
+ {
+  "Province": "Bitlis",
+  "District": "ADİLCEVAZ",
+  "Erdogan": 47.8,
+  "Kilicdaroglu": 52.2,
+  "Turnout": 68.5
+ },
+ {
+  "Province": "Bitlis",
+  "District": "AHLAT",
+  "Erdogan": 47.1,
+  "Kilicdaroglu": 52.9,
+  "Turnout": 77.9
+ },
+ {
+  "Province": "Bitlis",
+  "District": "GÜROYMAK",
+  "Erdogan": 44.4,
+  "Kilicdaroglu": 55.6,
+  "Turnout": 73
+ },
+ {
+  "Province": "Bitlis",
+  "District": "HİZAN",
+  "Erdogan": 56.7,
+  "Kilicdaroglu": 43.3,
+  "Turnout": 75
+ },
+ {
+  "Province": "Bitlis",
+  "District": "MERKEZ",
+  "Erdogan": 51.6,
+  "Kilicdaroglu": 48.4,
+  "Turnout": 78.9
+ },
+ {
+  "Province": "Bitlis",
+  "District": "MUTKİ",
+  "Erdogan": 79.4,
+  "Kilicdaroglu": 20.6,
+  "Turnout": 76.7
+ },
+ {
+  "Province": "Bitlis",
+  "District": "TATVAN",
+  "Erdogan": 42.3,
+  "Kilicdaroglu": 57.7,
+  "Turnout": 78.6
+ },
+ {
+  "Province": "Bolu",
+  "District": "DÖRTDİVAN",
+  "Erdogan": 90.2,
+  "Kilicdaroglu": 9.8,
+  "Turnout": 88.5
+ },
+ {
+  "Province": "Bolu",
+  "District": "GEREDE",
+  "Erdogan": 87.9,
+  "Kilicdaroglu": 12.1,
+  "Turnout": 92
+ },
+ {
+  "Province": "Bolu",
+  "District": "GÖYNÜK",
+  "Erdogan": 80.3,
+  "Kilicdaroglu": 19.7,
+  "Turnout": 89.1
+ },
+ {
+  "Province": "Bolu",
+  "District": "KIBRISCIK",
+  "Erdogan": 50.8,
+  "Kilicdaroglu": 49.2,
+  "Turnout": 86.4
+ },
+ {
+  "Province": "Bolu",
+  "District": "MENGEN",
+  "Erdogan": 61.4,
+  "Kilicdaroglu": 38.6,
+  "Turnout": 83.4
+ },
+ {
+  "Province": "Bolu",
+  "District": "MERKEZ",
+  "Erdogan": 57.9,
+  "Kilicdaroglu": 42.1,
+  "Turnout": 88.9
+ },
+ {
+  "Province": "Bolu",
+  "District": "MUDURNU",
+  "Erdogan": 68.1,
+  "Kilicdaroglu": 31.9,
+  "Turnout": 87.8
+ },
+ {
+  "Province": "Bolu",
+  "District": "SEBEN",
+  "Erdogan": 62.7,
+  "Kilicdaroglu": 37.3,
+  "Turnout": 86.2
+ },
+ {
+  "Province": "Bolu",
+  "District": "YENİÇAĞA",
+  "Erdogan": 83.4,
+  "Kilicdaroglu": 16.6,
+  "Turnout": 87.3
+ },
+ {
+  "Province": "Burdur",
+  "District": "AĞLASUN",
+  "Erdogan": 70.9,
+  "Kilicdaroglu": 29.1,
+  "Turnout": 90.1
+ },
+ {
+  "Province": "Burdur",
+  "District": "ALTINYAYLA",
+  "Erdogan": 75.8,
+  "Kilicdaroglu": 24.2,
+  "Turnout": 85.8
+ },
+ {
+  "Province": "Burdur",
+  "District": "BUCAK",
+  "Erdogan": 62.6,
+  "Kilicdaroglu": 37.4,
+  "Turnout": 88.7
+ },
+ {
+  "Province": "Burdur",
+  "District": "ÇAVDIR",
+  "Erdogan": 58.6,
+  "Kilicdaroglu": 41.4,
+  "Turnout": 83.6
+ },
+ {
+  "Province": "Burdur",
+  "District": "ÇELTİKÇİ",
+  "Erdogan": 67.4,
+  "Kilicdaroglu": 32.6,
+  "Turnout": 89.7
+ },
+ {
+  "Province": "Burdur",
+  "District": "GÖLHİSAR",
+  "Erdogan": 67.2,
+  "Kilicdaroglu": 32.8,
+  "Turnout": 85.6
+ },
+ {
+  "Province": "Burdur",
+  "District": "KARAMANLI",
+  "Erdogan": 47.1,
+  "Kilicdaroglu": 52.9,
+  "Turnout": 87.4
+ },
+ {
+  "Province": "Burdur",
+  "District": "KEMER",
+  "Erdogan": 69.8,
+  "Kilicdaroglu": 30.2,
+  "Turnout": 88.2
+ },
+ {
+  "Province": "Burdur",
+  "District": "MERKEZ",
+  "Erdogan": 48.4,
+  "Kilicdaroglu": 51.6,
+  "Turnout": 88
+ },
+ {
+  "Province": "Burdur",
+  "District": "TEFENNİ",
+  "Erdogan": 53.2,
+  "Kilicdaroglu": 46.8,
+  "Turnout": 84.7
+ },
+ {
+  "Province": "Burdur",
+  "District": "YEŞİLOVA",
+  "Erdogan": 44.7,
+  "Kilicdaroglu": 55.3,
+  "Turnout": 85.8
+ },
+ {
+  "Province": "Bursa",
+  "District": "BÜYÜKORHAN",
+  "Erdogan": 80.8,
+  "Kilicdaroglu": 19.2,
+  "Turnout": 88.9
+ },
+ {
+  "Province": "Bursa",
+  "District": "GEMLİK",
+  "Erdogan": 49.3,
+  "Kilicdaroglu": 50.7,
+  "Turnout": 86.4
+ },
+ {
+  "Province": "Bursa",
+  "District": "GÜRSU",
+  "Erdogan": 69.4,
+  "Kilicdaroglu": 30.6,
+  "Turnout": 85.4
+ },
+ {
+  "Province": "Bursa",
+  "District": "HARMANCIK",
+  "Erdogan": 70.5,
+  "Kilicdaroglu": 29.5,
+  "Turnout": 89.2
+ },
+ {
+  "Province": "Bursa",
+  "District": "İNEGÖL",
+  "Erdogan": 69.1,
+  "Kilicdaroglu": 30.9,
+  "Turnout": 88.2
+ },
+ {
+  "Province": "Bursa",
+  "District": "İZNİK",
+  "Erdogan": 54.7,
+  "Kilicdaroglu": 45.3,
+  "Turnout": 88.5
+ },
+ {
+  "Province": "Bursa",
+  "District": "KARACABEY",
+  "Erdogan": 50.6,
+  "Kilicdaroglu": 49.4,
+  "Turnout": 86.8
+ },
+ {
+  "Province": "Bursa",
+  "District": "KELES",
+  "Erdogan": 73.5,
+  "Kilicdaroglu": 26.5,
+  "Turnout": 88.9
+ },
+ {
+  "Province": "Bursa",
+  "District": "KESTEL",
+  "Erdogan": 58.8,
+  "Kilicdaroglu": 41.2,
+  "Turnout": 87.9
+ },
+ {
+  "Province": "Bursa",
+  "District": "MUDANYA",
+  "Erdogan": 39.6,
+  "Kilicdaroglu": 60.4,
+  "Turnout": 88.5
+ },
+ {
+  "Province": "Bursa",
+  "District": "MUSTAFAKEMALPAŞA",
+  "Erdogan": 54.6,
+  "Kilicdaroglu": 45.4,
+  "Turnout": 88.9
+ },
+ {
+  "Province": "Bursa",
+  "District": "NİLÜFER",
+  "Erdogan": 38.2,
+  "Kilicdaroglu": 61.8,
+  "Turnout": 89.5
+ },
+ {
+  "Province": "Bursa",
+  "District": "ORHANELİ",
+  "Erdogan": 69.2,
+  "Kilicdaroglu": 30.8,
+  "Turnout": 91.4
+ },
+ {
+  "Province": "Bursa",
+  "District": "ORHANGAZİ",
+  "Erdogan": 53,
+  "Kilicdaroglu": 47,
+  "Turnout": 87.7
+ },
+ {
+  "Province": "Bursa",
+  "District": "OSMANGAZİ",
+  "Erdogan": 56.1,
+  "Kilicdaroglu": 43.9,
+  "Turnout": 86.8
+ },
+ {
+  "Province": "Bursa",
+  "District": "YENİŞEHİR",
+  "Erdogan": 55.8,
+  "Kilicdaroglu": 44.2,
+  "Turnout": 89
+ },
+ {
+  "Province": "Bursa",
+  "District": "YILDIRIM",
+  "Erdogan": 60.4,
+  "Kilicdaroglu": 39.6,
+  "Turnout": 86.2
+ },
+ {
+  "Province": "Çanakkale",
+  "District": "AYVACIK",
+  "Erdogan": 44.2,
+  "Kilicdaroglu": 55.8,
+  "Turnout": 88.7
+ },
+ {
+  "Province": "Çanakkale",
+  "District": "BAYRAMİÇ",
+  "Erdogan": 43.7,
+  "Kilicdaroglu": 56.3,
+  "Turnout": 91.4
+ },
+ {
+  "Province": "Çanakkale",
+  "District": "BİGA",
+  "Erdogan": 54.2,
+  "Kilicdaroglu": 45.8,
+  "Turnout": 89.2
+ },
+ {
+  "Province": "Çanakkale",
+  "District": "BOZCAADA",
+  "Erdogan": 23.7,
+  "Kilicdaroglu": 76.3,
+  "Turnout": 85.2
+ },
+ {
+  "Province": "Çanakkale",
+  "District": "ÇAN",
+  "Erdogan": 51.7,
+  "Kilicdaroglu": 48.3,
+  "Turnout": 91.6
+ },
+ {
+  "Province": "Çanakkale",
+  "District": "ECEABAT",
+  "Erdogan": 25.7,
+  "Kilicdaroglu": 74.3,
+  "Turnout": 88.9
+ },
+ {
+  "Province": "Çanakkale",
+  "District": "EZİNE",
+  "Erdogan": 44.2,
+  "Kilicdaroglu": 55.8,
+  "Turnout": 88.6
+ },
+ {
+  "Province": "Çanakkale",
+  "District": "GELİBOLU",
+  "Erdogan": 35.3,
+  "Kilicdaroglu": 64.7,
+  "Turnout": 86.6
+ },
+ {
+  "Province": "Çanakkale",
+  "District": "GÖKÇEADA",
+  "Erdogan": 39.5,
+  "Kilicdaroglu": 60.5,
+  "Turnout": 81.3
+ },
+ {
+  "Province": "Çanakkale",
+  "District": "LAPSEKİ",
+  "Erdogan": 52.8,
+  "Kilicdaroglu": 47.2,
+  "Turnout": 89.9
+ },
+ {
+  "Province": "Çanakkale",
+  "District": "MERKEZ",
+  "Erdogan": 29.2,
+  "Kilicdaroglu": 70.8,
+  "Turnout": 88.3
+ },
+ {
+  "Province": "Çanakkale",
+  "District": "YENİCE",
+  "Erdogan": 62.9,
+  "Kilicdaroglu": 37.1,
+  "Turnout": 91.2
+ },
+ {
+  "Province": "Çankırı",
+  "District": "ATKARACALAR",
+  "Erdogan": 81.1,
+  "Kilicdaroglu": 18.9,
+  "Turnout": 84.8
+ },
+ {
+  "Province": "Çankırı",
+  "District": "BAYRAMÖREN",
+  "Erdogan": 85.7,
+  "Kilicdaroglu": 14.3,
+  "Turnout": 84.2
+ },
+ {
+  "Province": "Çankırı",
+  "District": "ÇERKEŞ",
+  "Erdogan": 71.6,
+  "Kilicdaroglu": 28.4,
+  "Turnout": 84.2
+ },
+ {
+  "Province": "Çankırı",
+  "District": "ELDİVAN",
+  "Erdogan": 76.8,
+  "Kilicdaroglu": 23.2,
+  "Turnout": 85.9
+ },
+ {
+  "Province": "Çankırı",
+  "District": "ILGAZ",
+  "Erdogan": 79.1,
+  "Kilicdaroglu": 20.9,
+  "Turnout": 84.8
+ },
+ {
+  "Province": "Çankırı",
+  "District": "KIZILIRMAK",
+  "Erdogan": 86,
+  "Kilicdaroglu": 14,
+  "Turnout": 87.8
+ },
+ {
+  "Province": "Çankırı",
+  "District": "KORGUN",
+  "Erdogan": 87.1,
+  "Kilicdaroglu": 12.9,
+  "Turnout": 87.7
+ },
+ {
+  "Province": "Çankırı",
+  "District": "KURŞUNLU",
+  "Erdogan": 78.6,
+  "Kilicdaroglu": 21.4,
+  "Turnout": 87.2
+ },
+ {
+  "Province": "Çankırı",
+  "District": "MERKEZ",
+  "Erdogan": 72.6,
+  "Kilicdaroglu": 27.4,
+  "Turnout": 86.5
+ },
+ {
+  "Province": "Çankırı",
+  "District": "ORTA",
+  "Erdogan": 90.9,
+  "Kilicdaroglu": 9.1,
+  "Turnout": 87.6
+ },
+ {
+  "Province": "Çankırı",
+  "District": "ŞABANÖZÜ",
+  "Erdogan": 71.1,
+  "Kilicdaroglu": 28.9,
+  "Turnout": 89.7
+ },
+ {
+  "Province": "Çankırı",
+  "District": "YAPRAKLI",
+  "Erdogan": 90.3,
+  "Kilicdaroglu": 9.7,
+  "Turnout": 85
+ },
+ {
+  "Province": "Çorum",
+  "District": "ALACA",
+  "Erdogan": 70.6,
+  "Kilicdaroglu": 29.4,
+  "Turnout": 87.6
+ },
+ {
+  "Province": "Çorum",
+  "District": "BAYAT",
+  "Erdogan": 80.4,
+  "Kilicdaroglu": 19.6,
+  "Turnout": 86.2
+ },
+ {
+  "Province": "Çorum",
+  "District": "BOĞAZKALE",
+  "Erdogan": 81.5,
+  "Kilicdaroglu": 18.5,
+  "Turnout": 88.4
+ },
+ {
+  "Province": "Çorum",
+  "District": "DODURGA",
+  "Erdogan": 60.2,
+  "Kilicdaroglu": 39.8,
+  "Turnout": 88.7
+ },
+ {
+  "Province": "Çorum",
+  "District": "İSKİLİP",
+  "Erdogan": 80,
+  "Kilicdaroglu": 20,
+  "Turnout": 86.1
+ },
+ {
+  "Province": "Çorum",
+  "District": "KARGI",
+  "Erdogan": 74.1,
+  "Kilicdaroglu": 25.9,
+  "Turnout": 86.2
+ },
+ {
+  "Province": "Çorum",
+  "District": "LAÇİN",
+  "Erdogan": 72.8,
+  "Kilicdaroglu": 27.2,
+  "Turnout": 90
+ },
+ {
+  "Province": "Çorum",
+  "District": "MECİTÖZÜ",
+  "Erdogan": 57.8,
+  "Kilicdaroglu": 42.2,
+  "Turnout": 91.1
+ },
+ {
+  "Province": "Çorum",
+  "District": "MERKEZ",
+  "Erdogan": 58.6,
+  "Kilicdaroglu": 41.4,
+  "Turnout": 89.2
+ },
+ {
+  "Province": "Çorum",
+  "District": "OĞUZLAR",
+  "Erdogan": 70.7,
+  "Kilicdaroglu": 29.3,
+  "Turnout": 92
+ },
+ {
+  "Province": "Çorum",
+  "District": "ORTAKÖY",
+  "Erdogan": 57.8,
+  "Kilicdaroglu": 42.2,
+  "Turnout": 88.8
+ },
+ {
+  "Province": "Çorum",
+  "District": "OSMANCIK",
+  "Erdogan": 70.9,
+  "Kilicdaroglu": 29.1,
+  "Turnout": 88
+ },
+ {
+  "Province": "Çorum",
+  "District": "SUNGURLU",
+  "Erdogan": 73,
+  "Kilicdaroglu": 27,
+  "Turnout": 88
+ },
+ {
+  "Province": "Çorum",
+  "District": "UĞURLUDAĞ",
+  "Erdogan": 83,
+  "Kilicdaroglu": 17,
+  "Turnout": 89.3
+ },
+ {
+  "Province": "Denizli",
+  "District": "ACIPAYAM",
+  "Erdogan": 57.6,
+  "Kilicdaroglu": 42.4,
+  "Turnout": 88
+ },
+ {
+  "Province": "Denizli",
+  "District": "BABADAĞ",
+  "Erdogan": 55,
+  "Kilicdaroglu": 45,
+  "Turnout": 88.8
+ },
+ {
+  "Province": "Denizli",
+  "District": "BAKLAN",
+  "Erdogan": 52,
+  "Kilicdaroglu": 48,
+  "Turnout": 91
+ },
+ {
+  "Province": "Denizli",
+  "District": "BEKİLLİ",
+  "Erdogan": 40.1,
+  "Kilicdaroglu": 59.9,
+  "Turnout": 88.6
+ },
+ {
+  "Province": "Denizli",
+  "District": "BEYAĞAÇ",
+  "Erdogan": 56,
+  "Kilicdaroglu": 44,
+  "Turnout": 90
+ },
+ {
+  "Province": "Denizli",
+  "District": "BOZKURT",
+  "Erdogan": 45.5,
+  "Kilicdaroglu": 54.5,
+  "Turnout": 88.5
+ },
+ {
+  "Province": "Denizli",
+  "District": "BULDAN",
+  "Erdogan": 46.7,
+  "Kilicdaroglu": 53.3,
+  "Turnout": 87.4
+ },
+ {
+  "Province": "Denizli",
+  "District": "ÇAL",
+  "Erdogan": 43.9,
+  "Kilicdaroglu": 56.1,
+  "Turnout": 89.6
+ },
+ {
+  "Province": "Denizli",
+  "District": "ÇAMELİ",
+  "Erdogan": 71.1,
+  "Kilicdaroglu": 28.9,
+  "Turnout": 86.3
+ },
+ {
+  "Province": "Denizli",
+  "District": "ÇARDAK",
+  "Erdogan": 46.1,
+  "Kilicdaroglu": 53.9,
+  "Turnout": 89
+ },
+ {
+  "Province": "Denizli",
+  "District": "ÇİVRİL",
+  "Erdogan": 50.5,
+  "Kilicdaroglu": 49.5,
+  "Turnout": 86
+ },
+ {
+  "Province": "Denizli",
+  "District": "GÜNEY",
+  "Erdogan": 46.4,
+  "Kilicdaroglu": 53.6,
+  "Turnout": 90.2
+ },
+ {
+  "Province": "Denizli",
+  "District": "HONAZ",
+  "Erdogan": 47,
+  "Kilicdaroglu": 53,
+  "Turnout": 91.3
+ },
+ {
+  "Province": "Denizli",
+  "District": "KALE",
+  "Erdogan": 62.4,
+  "Kilicdaroglu": 37.6,
+  "Turnout": 87.6
+ },
+ {
+  "Province": "Denizli",
+  "District": "MERKEZEFENDİ",
+  "Erdogan": 42.4,
+  "Kilicdaroglu": 57.6,
+  "Turnout": 89.4
+ },
+ {
+  "Province": "Denizli",
+  "District": "PAMUKKALE",
+  "Erdogan": 46.3,
+  "Kilicdaroglu": 53.7,
+  "Turnout": 87.9
+ },
+ {
+  "Province": "Denizli",
+  "District": "SARAYKÖY",
+  "Erdogan": 36.2,
+  "Kilicdaroglu": 63.8,
+  "Turnout": 89.2
+ },
+ {
+  "Province": "Denizli",
+  "District": "SERİNHİSAR",
+  "Erdogan": 54.4,
+  "Kilicdaroglu": 45.6,
+  "Turnout": 91.9
+ },
+ {
+  "Province": "Denizli",
+  "District": "TAVAS",
+  "Erdogan": 56.8,
+  "Kilicdaroglu": 43.2,
+  "Turnout": 87.7
+ },
+ {
+  "Province": "Diyarbakır",
+  "District": "BAĞLAR",
+  "Erdogan": 24.1,
+  "Kilicdaroglu": 75.9,
+  "Turnout": 75.1
+ },
+ {
+  "Province": "Diyarbakır",
+  "District": "BİSMİL",
+  "Erdogan": 21.7,
+  "Kilicdaroglu": 78.3,
+  "Turnout": 81.3
+ },
+ {
+  "Province": "Diyarbakır",
+  "District": "ÇERMİK",
+  "Erdogan": 62.8,
+  "Kilicdaroglu": 37.2,
+  "Turnout": 71
+ },
+ {
+  "Province": "Diyarbakır",
+  "District": "ÇINAR",
+  "Erdogan": 36.9,
+  "Kilicdaroglu": 63.1,
+  "Turnout": 74.5
+ },
+ {
+  "Province": "Diyarbakır",
+  "District": "ÇÜNGÜŞ",
+  "Erdogan": 62.1,
+  "Kilicdaroglu": 37.9,
+  "Turnout": 73.4
+ },
+ {
+  "Province": "Diyarbakır",
+  "District": "DİCLE",
+  "Erdogan": 35.7,
+  "Kilicdaroglu": 64.3,
+  "Turnout": 66.4
+ },
+ {
+  "Province": "Diyarbakır",
+  "District": "EĞİL",
+  "Erdogan": 42.2,
+  "Kilicdaroglu": 57.8,
+  "Turnout": 67.1
+ },
+ {
+  "Province": "Diyarbakır",
+  "District": "ERGANİ",
+  "Erdogan": 32.9,
+  "Kilicdaroglu": 67.1,
+  "Turnout": 73.4
+ },
+ {
+  "Province": "Diyarbakır",
+  "District": "HANİ",
+  "Erdogan": 52.9,
+  "Kilicdaroglu": 47.1,
+  "Turnout": 62.4
+ },
+ {
+  "Province": "Diyarbakır",
+  "District": "HAZRO",
+  "Erdogan": 24.8,
+  "Kilicdaroglu": 75.2,
+  "Turnout": 70.5
+ },
+ {
+  "Province": "Diyarbakır",
+  "District": "KAYAPINAR",
+  "Erdogan": 25.3,
+  "Kilicdaroglu": 74.7,
+  "Turnout": 79.6
+ },
+ {
+  "Province": "Diyarbakır",
+  "District": "KOCAKÖY",
+  "Erdogan": 18.1,
+  "Kilicdaroglu": 81.9,
+  "Turnout": 79.4
+ },
+ {
+  "Province": "Diyarbakır",
+  "District": "KULP",
+  "Erdogan": 42.6,
+  "Kilicdaroglu": 57.4,
+  "Turnout": 72
+ },
+ {
+  "Province": "Diyarbakır",
+  "District": "LİCE",
+  "Erdogan": 14.6,
+  "Kilicdaroglu": 85.4,
+  "Turnout": 79.2
+ },
+ {
+  "Province": "Diyarbakır",
+  "District": "SİLVAN",
+  "Erdogan": 21.4,
+  "Kilicdaroglu": 78.6,
+  "Turnout": 78.5
+ },
+ {
+  "Province": "Diyarbakır",
+  "District": "SUR",
+  "Erdogan": 31.1,
+  "Kilicdaroglu": 68.9,
+  "Turnout": 74.7
+ },
+ {
+  "Province": "Diyarbakır",
+  "District": "YENİŞEHİR",
+  "Erdogan": 28.7,
+  "Kilicdaroglu": 71.3,
+  "Turnout": 76.4
+ },
+ {
+  "Province": "Düzce",
+  "District": "AKÇAKOCA",
+  "Erdogan": 62.1,
+  "Kilicdaroglu": 37.9,
+  "Turnout": 89.3
+ },
+ {
+  "Province": "Düzce",
+  "District": "ÇİLİMLİ",
+  "Erdogan": 82.2,
+  "Kilicdaroglu": 17.8,
+  "Turnout": 93.3
+ },
+ {
+  "Province": "Düzce",
+  "District": "CUMAYERİ",
+  "Erdogan": 80.6,
+  "Kilicdaroglu": 19.4,
+  "Turnout": 91.1
+ },
+ {
+  "Province": "Düzce",
+  "District": "GÖLYAKA",
+  "Erdogan": 72.6,
+  "Kilicdaroglu": 27.4,
+  "Turnout": 92.1
+ },
+ {
+  "Province": "Düzce",
+  "District": "GÜMÜŞOVA",
+  "Erdogan": 75.3,
+  "Kilicdaroglu": 24.7,
+  "Turnout": 90.6
+ },
+ {
+  "Province": "Düzce",
+  "District": "KAYNAŞLI",
+  "Erdogan": 81.3,
+  "Kilicdaroglu": 18.7,
+  "Turnout": 88.8
+ },
+ {
+  "Province": "Düzce",
+  "District": "MERKEZ",
+  "Erdogan": 70.3,
+  "Kilicdaroglu": 29.7,
+  "Turnout": 89.4
+ },
+ {
+  "Province": "Düzce",
+  "District": "YIĞILCA",
+  "Erdogan": 86.3,
+  "Kilicdaroglu": 13.7,
+  "Turnout": 89.8
+ },
+ {
+  "Province": "Edirne",
+  "District": "ENEZ",
+  "Erdogan": 26.3,
+  "Kilicdaroglu": 73.7,
+  "Turnout": 88.1
+ },
+ {
+  "Province": "Edirne",
+  "District": "HAVSA",
+  "Erdogan": 31.7,
+  "Kilicdaroglu": 68.3,
+  "Turnout": 89.5
+ },
+ {
+  "Province": "Edirne",
+  "District": "İPSALA",
+  "Erdogan": 39.8,
+  "Kilicdaroglu": 60.2,
+  "Turnout": 88.1
+ },
+ {
+  "Province": "Edirne",
+  "District": "KEŞAN",
+  "Erdogan": 35.6,
+  "Kilicdaroglu": 64.4,
+  "Turnout": 88.1
+ },
+ {
+  "Province": "Edirne",
+  "District": "LALAPAŞA",
+  "Erdogan": 47.2,
+  "Kilicdaroglu": 52.8,
+  "Turnout": 89.8
+ },
+ {
+  "Province": "Edirne",
+  "District": "MERİÇ",
+  "Erdogan": 41.6,
+  "Kilicdaroglu": 58.4,
+  "Turnout": 86.5
+ },
+ {
+  "Province": "Edirne",
+  "District": "MERKEZ",
+  "Erdogan": 30.2,
+  "Kilicdaroglu": 69.8,
+  "Turnout": 87
+ },
+ {
+  "Province": "Edirne",
+  "District": "SÜLOĞLU",
+  "Erdogan": 41.8,
+  "Kilicdaroglu": 58.2,
+  "Turnout": 87.1
+ },
+ {
+  "Province": "Edirne",
+  "District": "UZUNKÖPRÜ",
+  "Erdogan": 32.3,
+  "Kilicdaroglu": 67.7,
+  "Turnout": 87.9
+ },
+ {
+  "Province": "Elazığ",
+  "District": "AĞIN",
+  "Erdogan": 62.2,
+  "Kilicdaroglu": 37.8,
+  "Turnout": 84.7
+ },
+ {
+  "Province": "Elazığ",
+  "District": "ALACAKAYA",
+  "Erdogan": 76.2,
+  "Kilicdaroglu": 23.8,
+  "Turnout": 81.2
+ },
+ {
+  "Province": "Elazığ",
+  "District": "ARICAK",
+  "Erdogan": 76.9,
+  "Kilicdaroglu": 23.1,
+  "Turnout": 73.8
+ },
+ {
+  "Province": "Elazığ",
+  "District": "BASKİL",
+  "Erdogan": 83.8,
+  "Kilicdaroglu": 16.2,
+  "Turnout": 89.5
+ },
+ {
+  "Province": "Elazığ",
+  "District": "KARAKOÇAN",
+  "Erdogan": 49.4,
+  "Kilicdaroglu": 50.6,
+  "Turnout": 74.3
+ },
+ {
+  "Province": "Elazığ",
+  "District": "KEBAN",
+  "Erdogan": 73.2,
+  "Kilicdaroglu": 26.8,
+  "Turnout": 89.4
+ },
+ {
+  "Province": "Elazığ",
+  "District": "KOVANCILAR",
+  "Erdogan": 81.1,
+  "Kilicdaroglu": 18.9,
+  "Turnout": 77.6
+ },
+ {
+  "Province": "Elazığ",
+  "District": "MADEN",
+  "Erdogan": 66.8,
+  "Kilicdaroglu": 33.2,
+  "Turnout": 80.4
+ },
+ {
+  "Province": "Elazığ",
+  "District": "MERKEZ",
+  "Erdogan": 69.1,
+  "Kilicdaroglu": 30.9,
+  "Turnout": 83.2
+ },
+ {
+  "Province": "Elazığ",
+  "District": "PALU",
+  "Erdogan": 89.1,
+  "Kilicdaroglu": 10.9,
+  "Turnout": 82.5
+ },
+ {
+  "Province": "Elazığ",
+  "District": "SİVRİCE",
+  "Erdogan": 79.3,
+  "Kilicdaroglu": 20.7,
+  "Turnout": 83.6
+ },
+ {
+  "Province": "Erzincan",
+  "District": "ÇAYIRLI",
+  "Erdogan": 57.2,
+  "Kilicdaroglu": 42.8,
+  "Turnout": 88.3
+ },
+ {
+  "Province": "Erzincan",
+  "District": "İLİÇ",
+  "Erdogan": 72.1,
+  "Kilicdaroglu": 27.9,
+  "Turnout": 87.8
+ },
+ {
+  "Province": "Erzincan",
+  "District": "KEMAH",
+  "Erdogan": 61.4,
+  "Kilicdaroglu": 38.6,
+  "Turnout": 88.6
+ },
+ {
+  "Province": "Erzincan",
+  "District": "KEMALİYE",
+  "Erdogan": 70.6,
+  "Kilicdaroglu": 29.4,
+  "Turnout": 82.1
+ },
+ {
+  "Province": "Erzincan",
+  "District": "MERKEZ",
+  "Erdogan": 60.8,
+  "Kilicdaroglu": 39.2,
+  "Turnout": 90.1
+ },
+ {
+  "Province": "Erzincan",
+  "District": "OTLUKBELİ",
+  "Erdogan": 82.1,
+  "Kilicdaroglu": 17.9,
+  "Turnout": 85.9
+ },
+ {
+  "Province": "Erzincan",
+  "District": "REFAHİYE",
+  "Erdogan": 68.9,
+  "Kilicdaroglu": 31.1,
+  "Turnout": 85.3
+ },
+ {
+  "Province": "Erzincan",
+  "District": "TERCAN",
+  "Erdogan": 59.2,
+  "Kilicdaroglu": 40.8,
+  "Turnout": 85.8
+ },
+ {
+  "Province": "Erzincan",
+  "District": "ÜZÜMLÜ",
+  "Erdogan": 64.3,
+  "Kilicdaroglu": 35.7,
+  "Turnout": 85.8
+ },
+ {
+  "Province": "Erzurum",
+  "District": "AŞKALE",
+  "Erdogan": 83.4,
+  "Kilicdaroglu": 16.6,
+  "Turnout": 86.9
+ },
+ {
+  "Province": "Erzurum",
+  "District": "AZİZİYE",
+  "Erdogan": 81.2,
+  "Kilicdaroglu": 18.8,
+  "Turnout": 88.3
+ },
+ {
+  "Province": "Erzurum",
+  "District": "ÇAT",
+  "Erdogan": 70.4,
+  "Kilicdaroglu": 29.6,
+  "Turnout": 79.4
+ },
+ {
+  "Province": "Erzurum",
+  "District": "HINIS",
+  "Erdogan": 45.1,
+  "Kilicdaroglu": 54.9,
+  "Turnout": 73.1
+ },
+ {
+  "Province": "Erzurum",
+  "District": "HORASAN",
+  "Erdogan": 83.3,
+  "Kilicdaroglu": 16.7,
+  "Turnout": 76.7
+ },
+ {
+  "Province": "Erzurum",
+  "District": "İSPİR",
+  "Erdogan": 84.8,
+  "Kilicdaroglu": 15.2,
+  "Turnout": 84.7
+ },
+ {
+  "Province": "Erzurum",
+  "District": "KARAÇOBAN",
+  "Erdogan": 27.8,
+  "Kilicdaroglu": 72.2,
+  "Turnout": 63.4
+ },
+ {
+  "Province": "Erzurum",
+  "District": "KARAYAZI",
+  "Erdogan": 30.7,
+  "Kilicdaroglu": 69.3,
+  "Turnout": 71.3
+ },
+ {
+  "Province": "Erzurum",
+  "District": "KÖPRÜKÖY",
+  "Erdogan": 82.6,
+  "Kilicdaroglu": 17.4,
+  "Turnout": 80.2
+ },
+ {
+  "Province": "Erzurum",
+  "District": "NARMAN",
+  "Erdogan": 83.8,
+  "Kilicdaroglu": 16.2,
+  "Turnout": 84.3
+ },
+ {
+  "Province": "Erzurum",
+  "District": "OLTU",
+  "Erdogan": 82.1,
+  "Kilicdaroglu": 17.9,
+  "Turnout": 84.6
+ },
+ {
+  "Province": "Erzurum",
+  "District": "OLUR",
+  "Erdogan": 81.5,
+  "Kilicdaroglu": 18.5,
+  "Turnout": 82
+ },
+ {
+  "Province": "Erzurum",
+  "District": "PALANDÖKEN",
+  "Erdogan": 72.7,
+  "Kilicdaroglu": 27.3,
+  "Turnout": 84.8
+ },
+ {
+  "Province": "Erzurum",
+  "District": "PASİNLER",
+  "Erdogan": 83.3,
+  "Kilicdaroglu": 16.7,
+  "Turnout": 86.6
+ },
+ {
+  "Province": "Erzurum",
+  "District": "PAZARYOLU",
+  "Erdogan": 89.9,
+  "Kilicdaroglu": 10.1,
+  "Turnout": 84.7
+ },
+ {
+  "Province": "Erzurum",
+  "District": "ŞENKAYA",
+  "Erdogan": 59.5,
+  "Kilicdaroglu": 40.5,
+  "Turnout": 78.3
+ },
+ {
+  "Province": "Erzurum",
+  "District": "TEKMAN",
+  "Erdogan": 32,
+  "Kilicdaroglu": 68,
+  "Turnout": 69.5
+ },
+ {
+  "Province": "Erzurum",
+  "District": "TORTUM",
+  "Erdogan": 88.9,
+  "Kilicdaroglu": 11.1,
+  "Turnout": 87
+ },
+ {
+  "Province": "Erzurum",
+  "District": "UZUNDERE",
+  "Erdogan": 84.1,
+  "Kilicdaroglu": 15.9,
+  "Turnout": 85
+ },
+ {
+  "Province": "Erzurum",
+  "District": "YAKUTİYE",
+  "Erdogan": 77.7,
+  "Kilicdaroglu": 22.3,
+  "Turnout": 86.6
+ },
+ {
+  "Province": "Eskişehir",
+  "District": "ALPU",
+  "Erdogan": 64.7,
+  "Kilicdaroglu": 35.3,
+  "Turnout": 85.9
+ },
+ {
+  "Province": "Eskişehir",
+  "District": "BEYLİKOVA",
+  "Erdogan": 52.3,
+  "Kilicdaroglu": 47.7,
+  "Turnout": 86.2
+ },
+ {
+  "Province": "Eskişehir",
+  "District": "ÇİFTELER",
+  "Erdogan": 59.3,
+  "Kilicdaroglu": 40.7,
+  "Turnout": 83.2
+ },
+ {
+  "Province": "Eskişehir",
+  "District": "GÜNYÜZÜ",
+  "Erdogan": 72.7,
+  "Kilicdaroglu": 27.3,
+  "Turnout": 87.7
+ },
+ {
+  "Province": "Eskişehir",
+  "District": "HAN",
+  "Erdogan": 48.7,
+  "Kilicdaroglu": 51.3,
+  "Turnout": 85.8
+ },
+ {
+  "Province": "Eskişehir",
+  "District": "İNÖNÜ",
+  "Erdogan": 63.5,
+  "Kilicdaroglu": 36.5,
+  "Turnout": 91.6
+ },
+ {
+  "Province": "Eskişehir",
+  "District": "MAHMUDİYE",
+  "Erdogan": 49,
+  "Kilicdaroglu": 51,
+  "Turnout": 87.3
+ },
+ {
+  "Province": "Eskişehir",
+  "District": "MİHALGAZİ",
+  "Erdogan": 66.1,
+  "Kilicdaroglu": 33.9,
+  "Turnout": 92
+ },
+ {
+  "Province": "Eskişehir",
+  "District": "MİHALIÇÇIK",
+  "Erdogan": 60,
+  "Kilicdaroglu": 40,
+  "Turnout": 83.3
+ },
+ {
+  "Province": "Eskişehir",
+  "District": "ODUNPAZARI",
+  "Erdogan": 42.4,
+  "Kilicdaroglu": 57.6,
+  "Turnout": 87.9
+ },
+ {
+  "Province": "Eskişehir",
+  "District": "SARICAKAYA",
+  "Erdogan": 68.8,
+  "Kilicdaroglu": 31.2,
+  "Turnout": 89.5
+ },
+ {
+  "Province": "Eskişehir",
+  "District": "SEYİTGAZİ",
+  "Erdogan": 53,
+  "Kilicdaroglu": 47,
+  "Turnout": 91.4
+ },
+ {
+  "Province": "Eskişehir",
+  "District": "SİVRİHİSAR",
+  "Erdogan": 58.1,
+  "Kilicdaroglu": 41.9,
+  "Turnout": 84.3
+ },
+ {
+  "Province": "Eskişehir",
+  "District": "TEPEBAŞI",
+  "Erdogan": 42.9,
+  "Kilicdaroglu": 57.1,
+  "Turnout": 87.6
+ },
+ {
+  "Province": "Gaziantep",
+  "District": "ARABAN",
+  "Erdogan": 67.2,
+  "Kilicdaroglu": 32.8,
+  "Turnout": 81.2
+ },
+ {
+  "Province": "Gaziantep",
+  "District": "İSLAHİYE",
+  "Erdogan": 63.1,
+  "Kilicdaroglu": 36.9,
+  "Turnout": 80.4
+ },
+ {
+  "Province": "Gaziantep",
+  "District": "KARKAMIŞ",
+  "Erdogan": 59.7,
+  "Kilicdaroglu": 40.3,
+  "Turnout": 89.6
+ },
+ {
+  "Province": "Gaziantep",
+  "District": "NİZİP",
+  "Erdogan": 66.8,
+  "Kilicdaroglu": 33.2,
+  "Turnout": 83
+ },
+ {
+  "Province": "Gaziantep",
+  "District": "NURDAĞI",
+  "Erdogan": 77.8,
+  "Kilicdaroglu": 22.2,
+  "Turnout": 79.1
+ },
+ {
+  "Province": "Gaziantep",
+  "District": "OĞUZELİ",
+  "Erdogan": 68.3,
+  "Kilicdaroglu": 31.7,
+  "Turnout": 86.9
+ },
+ {
+  "Province": "Gaziantep",
+  "District": "ŞAHİNBEY",
+  "Erdogan": 62,
+  "Kilicdaroglu": 38,
+  "Turnout": 82.3
+ },
+ {
+  "Province": "Gaziantep",
+  "District": "ŞEHİTKAMİL",
+  "Erdogan": 61.6,
+  "Kilicdaroglu": 38.4,
+  "Turnout": 83.1
+ },
+ {
+  "Province": "Gaziantep",
+  "District": "YAVUZELİ",
+  "Erdogan": 66.7,
+  "Kilicdaroglu": 33.3,
+  "Turnout": 87.7
+ },
+ {
+  "Province": "Giresun",
+  "District": "ALUCRA",
+  "Erdogan": 87.6,
+  "Kilicdaroglu": 12.4,
+  "Turnout": 80
+ },
+ {
+  "Province": "Giresun",
+  "District": "BULANCAK",
+  "Erdogan": 66.2,
+  "Kilicdaroglu": 33.8,
+  "Turnout": 87.5
+ },
+ {
+  "Province": "Giresun",
+  "District": "ÇAMOLUK",
+  "Erdogan": 88.5,
+  "Kilicdaroglu": 11.5,
+  "Turnout": 83.3
+ },
+ {
+  "Province": "Giresun",
+  "District": "ÇANAKÇI",
+  "Erdogan": 78.4,
+  "Kilicdaroglu": 21.6,
+  "Turnout": 85.1
+ },
+ {
+  "Province": "Giresun",
+  "District": "DERELİ",
+  "Erdogan": 83.3,
+  "Kilicdaroglu": 16.7,
+  "Turnout": 86.7
+ },
+ {
+  "Province": "Giresun",
+  "District": "DOĞANKENT",
+  "Erdogan": 75.4,
+  "Kilicdaroglu": 24.6,
+  "Turnout": 85.8
+ },
+ {
+  "Province": "Giresun",
+  "District": "ESPİYE",
+  "Erdogan": 66.9,
+  "Kilicdaroglu": 33.1,
+  "Turnout": 84.2
+ },
+ {
+  "Province": "Giresun",
+  "District": "EYNESİL",
+  "Erdogan": 65.8,
+  "Kilicdaroglu": 34.2,
+  "Turnout": 84.2
+ },
+ {
+  "Province": "Giresun",
+  "District": "GÖRELE",
+  "Erdogan": 62.1,
+  "Kilicdaroglu": 37.9,
+  "Turnout": 82.9
+ },
+ {
+  "Province": "Giresun",
+  "District": "GÜCE",
+  "Erdogan": 80.1,
+  "Kilicdaroglu": 19.9,
+  "Turnout": 87.1
+ },
+ {
+  "Province": "Giresun",
+  "District": "KEŞAP",
+  "Erdogan": 65.4,
+  "Kilicdaroglu": 34.6,
+  "Turnout": 85.5
+ },
+ {
+  "Province": "Giresun",
+  "District": "MERKEZ",
+  "Erdogan": 52.3,
+  "Kilicdaroglu": 47.7,
+  "Turnout": 86
+ },
+ {
+  "Province": "Giresun",
+  "District": "PİRAZİZ",
+  "Erdogan": 61.5,
+  "Kilicdaroglu": 38.5,
+  "Turnout": 87.9
+ },
+ {
+  "Province": "Giresun",
+  "District": "ŞEBİNKARAHİSAR",
+  "Erdogan": 81,
+  "Kilicdaroglu": 19,
+  "Turnout": 85.1
+ },
+ {
+  "Province": "Giresun",
+  "District": "TİREBOLU",
+  "Erdogan": 66,
+  "Kilicdaroglu": 34,
+  "Turnout": 85
+ },
+ {
+  "Province": "Giresun",
+  "District": "YAĞLIDERE",
+  "Erdogan": 81.8,
+  "Kilicdaroglu": 18.2,
+  "Turnout": 83.5
+ },
+ {
+  "Province": "Gümüşhane",
+  "District": "KELKİT",
+  "Erdogan": 83.6,
+  "Kilicdaroglu": 16.4,
+  "Turnout": 77.7
+ },
+ {
+  "Province": "Gümüşhane",
+  "District": "KÖSE",
+  "Erdogan": 90.2,
+  "Kilicdaroglu": 9.8,
+  "Turnout": 80.9
+ },
+ {
+  "Province": "Gümüşhane",
+  "District": "KÜRTÜN",
+  "Erdogan": 84.9,
+  "Kilicdaroglu": 15.1,
+  "Turnout": 83.8
+ },
+ {
+  "Province": "Gümüşhane",
+  "District": "MERKEZ",
+  "Erdogan": 72.5,
+  "Kilicdaroglu": 27.5,
+  "Turnout": 85.4
+ },
+ {
+  "Province": "Gümüşhane",
+  "District": "ŞİRAN",
+  "Erdogan": 76.9,
+  "Kilicdaroglu": 23.1,
+  "Turnout": 74
+ },
+ {
+  "Province": "Gümüşhane",
+  "District": "TORUL",
+  "Erdogan": 78.1,
+  "Kilicdaroglu": 21.9,
+  "Turnout": 82.4
+ },
+ {
+  "Province": "Hakkari",
+  "District": "ÇUKURCA",
+  "Erdogan": 31.4,
+  "Kilicdaroglu": 68.6,
+  "Turnout": 75
+ },
+ {
+  "Province": "Hakkari",
+  "District": "DERECİK",
+  "Erdogan": 70,
+  "Kilicdaroglu": 30,
+  "Turnout": 74.3
+ },
+ {
+  "Province": "Hakkari",
+  "District": "MERKEZ",
+  "Erdogan": 24.5,
+  "Kilicdaroglu": 75.5,
+  "Turnout": 80.4
+ },
+ {
+  "Province": "Hakkari",
+  "District": "ŞEMDİNLİ",
+  "Erdogan": 43.2,
+  "Kilicdaroglu": 56.8,
+  "Turnout": 74.9
+ },
+ {
+  "Province": "Hakkari",
+  "District": "YÜKSEKOVA",
+  "Erdogan": 17.5,
+  "Kilicdaroglu": 82.5,
+  "Turnout": 78.9
+ },
+ {
+  "Province": "Hatay",
+  "District": "ALTINÖZÜ",
+  "Erdogan": 86.8,
+  "Kilicdaroglu": 13.2,
+  "Turnout": 85.5
+ },
+ {
+  "Province": "Hatay",
+  "District": "ANTAKYA",
+  "Erdogan": 56.5,
+  "Kilicdaroglu": 43.5,
+  "Turnout": 74.9
+ },
+ {
+  "Province": "Hatay",
+  "District": "ARSUZ",
+  "Erdogan": 23.5,
+  "Kilicdaroglu": 76.5,
+  "Turnout": 87.3
+ },
+ {
+  "Province": "Hatay",
+  "District": "BELEN",
+  "Erdogan": 67.6,
+  "Kilicdaroglu": 32.4,
+  "Turnout": 85
+ },
+ {
+  "Province": "Hatay",
+  "District": "DEFNE",
+  "Erdogan": 8.7,
+  "Kilicdaroglu": 91.3,
+  "Turnout": 80.1
+ },
+ {
+  "Province": "Hatay",
+  "District": "DÖRTYOL",
+  "Erdogan": 55.9,
+  "Kilicdaroglu": 44.1,
+  "Turnout": 84.4
+ },
+ {
+  "Province": "Hatay",
+  "District": "ERZİN",
+  "Erdogan": 50.3,
+  "Kilicdaroglu": 49.7,
+  "Turnout": 86
+ },
+ {
+  "Province": "Hatay",
+  "District": "HASSA",
+  "Erdogan": 76.6,
+  "Kilicdaroglu": 23.4,
+  "Turnout": 83.2
+ },
+ {
+  "Province": "Hatay",
+  "District": "İSKENDERUN",
+  "Erdogan": 50.6,
+  "Kilicdaroglu": 49.4,
+  "Turnout": 82
+ },
+ {
+  "Province": "Hatay",
+  "District": "KIRIKHAN",
+  "Erdogan": 78.6,
+  "Kilicdaroglu": 21.4,
+  "Turnout": 81.2
+ },
+ {
+  "Province": "Hatay",
+  "District": "KUMLU",
+  "Erdogan": 74.9,
+  "Kilicdaroglu": 25.1,
+  "Turnout": 82.1
+ },
+ {
+  "Province": "Hatay",
+  "District": "PAYAS",
+  "Erdogan": 63.5,
+  "Kilicdaroglu": 36.5,
+  "Turnout": 87
+ },
+ {
+  "Province": "Hatay",
+  "District": "REYHANLI",
+  "Erdogan": 83.6,
+  "Kilicdaroglu": 16.4,
+  "Turnout": 79.9
+ },
+ {
+  "Province": "Hatay",
+  "District": "SAMANDAĞ",
+  "Erdogan": 7.5,
+  "Kilicdaroglu": 92.5,
+  "Turnout": 86.4
+ },
+ {
+  "Province": "Hatay",
+  "District": "YAYLADAĞI",
+  "Erdogan": 82.1,
+  "Kilicdaroglu": 17.9,
+  "Turnout": 89.6
+ },
+ {
+  "Province": "Iğdır",
+  "District": "ARALIK",
+  "Erdogan": 39.9,
+  "Kilicdaroglu": 60.1,
+  "Turnout": 68.7
+ },
+ {
+  "Province": "Iğdır",
+  "District": "KARAKOYUNLU",
+  "Erdogan": 41.1,
+  "Kilicdaroglu": 58.9,
+  "Turnout": 70.2
+ },
+ {
+  "Province": "Iğdır",
+  "District": "MERKEZ",
+  "Erdogan": 31.7,
+  "Kilicdaroglu": 68.3,
+  "Turnout": 73
+ },
+ {
+  "Province": "Iğdır",
+  "District": "TUZLUCA",
+  "Erdogan": 32.5,
+  "Kilicdaroglu": 67.5,
+  "Turnout": 69
+ },
+ {
+  "Province": "Isparta",
+  "District": "AKSU",
+  "Erdogan": 61.1,
+  "Kilicdaroglu": 38.9,
+  "Turnout": 85.2
+ },
+ {
+  "Province": "Isparta",
+  "District": "ATABEY",
+  "Erdogan": 56.3,
+  "Kilicdaroglu": 43.7,
+  "Turnout": 90.2
+ },
+ {
+  "Province": "Isparta",
+  "District": "EĞİRDİR",
+  "Erdogan": 61.8,
+  "Kilicdaroglu": 38.2,
+  "Turnout": 86.6
+ },
+ {
+  "Province": "Isparta",
+  "District": "GELENDOST",
+  "Erdogan": 54.9,
+  "Kilicdaroglu": 45.1,
+  "Turnout": 83.7
+ },
+ {
+  "Province": "Isparta",
+  "District": "GÖNEN",
+  "Erdogan": 50.8,
+  "Kilicdaroglu": 49.2,
+  "Turnout": 89.9
+ },
+ {
+  "Province": "Isparta",
+  "District": "KEÇİBORLU",
+  "Erdogan": 59.9,
+  "Kilicdaroglu": 40.1,
+  "Turnout": 89.1
+ },
+ {
+  "Province": "Isparta",
+  "District": "MERKEZ",
+  "Erdogan": 55,
+  "Kilicdaroglu": 45,
+  "Turnout": 87.7
+ },
+ {
+  "Province": "Isparta",
+  "District": "ŞARKİKARAAĞAÇ",
+  "Erdogan": 61.8,
+  "Kilicdaroglu": 38.2,
+  "Turnout": 84.8
+ },
+ {
+  "Province": "Isparta",
+  "District": "SENİRKENT",
+  "Erdogan": 57.2,
+  "Kilicdaroglu": 42.8,
+  "Turnout": 86.4
+ },
+ {
+  "Province": "Isparta",
+  "District": "SÜTÇÜLER",
+  "Erdogan": 81.1,
+  "Kilicdaroglu": 18.9,
+  "Turnout": 86.4
+ },
+ {
+  "Province": "Isparta",
+  "District": "ULUBORLU",
+  "Erdogan": 56,
+  "Kilicdaroglu": 44,
+  "Turnout": 86.7
+ },
+ {
+  "Province": "Isparta",
+  "District": "YALVAÇ",
+  "Erdogan": 64,
+  "Kilicdaroglu": 36,
+  "Turnout": 81
+ },
+ {
+  "Province": "Isparta",
+  "District": "YENİŞARBADEMLİ",
+  "Erdogan": 55.5,
+  "Kilicdaroglu": 44.5,
+  "Turnout": 83.6
+ },
+ {
+  "Province": "İstanbul",
+  "District": "ADALAR",
+  "Erdogan": 25.8,
+  "Kilicdaroglu": 74.2,
+  "Turnout": 85.4
+ },
+ {
+  "Province": "İstanbul",
+  "District": "ARNAVUTKÖY",
+  "Erdogan": 63.7,
+  "Kilicdaroglu": 36.3,
+  "Turnout": 86.8
+ },
+ {
+  "Province": "İstanbul",
+  "District": "ATAŞEHİR",
+  "Erdogan": 41.7,
+  "Kilicdaroglu": 58.3,
+  "Turnout": 89
+ },
+ {
+  "Province": "İstanbul",
+  "District": "AVCILAR",
+  "Erdogan": 42.1,
+  "Kilicdaroglu": 57.9,
+  "Turnout": 86.6
+ },
+ {
+  "Province": "İstanbul",
+  "District": "BAĞCILAR",
+  "Erdogan": 59.7,
+  "Kilicdaroglu": 40.3,
+  "Turnout": 87.6
+ },
+ {
+  "Province": "İstanbul",
+  "District": "BAHÇELİEVLER",
+  "Erdogan": 50.5,
+  "Kilicdaroglu": 49.5,
+  "Turnout": 87.5
+ },
+ {
+  "Province": "İstanbul",
+  "District": "BAKIRKÖY",
+  "Erdogan": 23.8,
+  "Kilicdaroglu": 76.2,
+  "Turnout": 87.6
+ },
+ {
+  "Province": "İstanbul",
+  "District": "BAŞAKŞEHİR",
+  "Erdogan": 54.9,
+  "Kilicdaroglu": 45.1,
+  "Turnout": 88.2
+ },
+ {
+  "Province": "İstanbul",
+  "District": "BAYRAMPAŞA",
+  "Erdogan": 52.8,
+  "Kilicdaroglu": 47.2,
+  "Turnout": 88.6
+ },
+ {
+  "Province": "İstanbul",
+  "District": "BEŞİKTAŞ",
+  "Erdogan": 17.5,
+  "Kilicdaroglu": 82.5,
+  "Turnout": 88.2
+ },
+ {
+  "Province": "İstanbul",
+  "District": "BEYKOZ",
+  "Erdogan": 54.2,
+  "Kilicdaroglu": 45.8,
+  "Turnout": 88.8
+ },
+ {
+  "Province": "İstanbul",
+  "District": "BEYLİKDÜZÜ",
+  "Erdogan": 42.3,
+  "Kilicdaroglu": 57.7,
+  "Turnout": 87.6
+ },
+ {
+  "Province": "İstanbul",
+  "District": "BEYOĞLU",
+  "Erdogan": 49.8,
+  "Kilicdaroglu": 50.2,
+  "Turnout": 85.7
+ },
+ {
+  "Province": "İstanbul",
+  "District": "BÜYÜKÇEKMECE",
+  "Erdogan": 44.7,
+  "Kilicdaroglu": 55.3,
+  "Turnout": 87.6
+ },
+ {
+  "Province": "İstanbul",
+  "District": "ÇATALCA",
+  "Erdogan": 43,
+  "Kilicdaroglu": 57,
+  "Turnout": 89.8
+ },
+ {
+  "Province": "İstanbul",
+  "District": "ÇEKMEKÖY",
+  "Erdogan": 51.2,
+  "Kilicdaroglu": 48.8,
+  "Turnout": 89.3
+ },
+ {
+  "Province": "İstanbul",
+  "District": "ESENLER",
+  "Erdogan": 64.2,
+  "Kilicdaroglu": 35.8,
+  "Turnout": 88.9
+ },
+ {
+  "Province": "İstanbul",
+  "District": "ESENYURT",
+  "Erdogan": 46,
+  "Kilicdaroglu": 54,
+  "Turnout": 85
+ },
+ {
+  "Province": "İstanbul",
+  "District": "EYÜPSULTAN",
+  "Erdogan": 47.9,
+  "Kilicdaroglu": 52.1,
+  "Turnout": 88.5
+ },
+ {
+  "Province": "İstanbul",
+  "District": "FATİH",
+  "Erdogan": 54,
+  "Kilicdaroglu": 46,
+  "Turnout": 84.8
+ },
+ {
+  "Province": "İstanbul",
+  "District": "GAZİOSMANPAŞA",
+  "Erdogan": 57,
+  "Kilicdaroglu": 43,
+  "Turnout": 87.3
+ },
+ {
+  "Province": "İstanbul",
+  "District": "GÜNGÖREN",
+  "Erdogan": 54.1,
+  "Kilicdaroglu": 45.9,
+  "Turnout": 87
+ },
+ {
+  "Province": "İstanbul",
+  "District": "KADIKÖY",
+  "Erdogan": 17.6,
+  "Kilicdaroglu": 82.4,
+  "Turnout": 89.4
+ },
+ {
+  "Province": "İstanbul",
+  "District": "KAĞITHANE",
+  "Erdogan": 52.5,
+  "Kilicdaroglu": 47.5,
+  "Turnout": 87.4
+ },
+ {
+  "Province": "İstanbul",
+  "District": "KARTAL",
+  "Erdogan": 42.2,
+  "Kilicdaroglu": 57.8,
+  "Turnout": 89
+ },
+ {
+  "Province": "İstanbul",
+  "District": "KÜÇÜKÇEKMECE",
+  "Erdogan": 44,
+  "Kilicdaroglu": 56,
+  "Turnout": 87.2
+ },
+ {
+  "Province": "İstanbul",
+  "District": "MALTEPE",
+  "Erdogan": 37.5,
+  "Kilicdaroglu": 62.5,
+  "Turnout": 89.2
+ },
+ {
+  "Province": "İstanbul",
+  "District": "PENDİK",
+  "Erdogan": 55.7,
+  "Kilicdaroglu": 44.3,
+  "Turnout": 88.3
+ },
+ {
+  "Province": "İstanbul",
+  "District": "SANCAKTEPE",
+  "Erdogan": 50.2,
+  "Kilicdaroglu": 49.8,
+  "Turnout": 88.3
+ },
+ {
+  "Province": "İstanbul",
+  "District": "SARIYER",
+  "Erdogan": 40.5,
+  "Kilicdaroglu": 59.5,
+  "Turnout": 88.1
+ },
+ {
+  "Province": "İstanbul",
+  "District": "ŞİLE",
+  "Erdogan": 51.2,
+  "Kilicdaroglu": 48.8,
+  "Turnout": 90.2
+ },
+ {
+  "Province": "İstanbul",
+  "District": "SİLİVRİ",
+  "Erdogan": 41.7,
+  "Kilicdaroglu": 58.3,
+  "Turnout": 90.7
+ },
+ {
+  "Province": "İstanbul",
+  "District": "ŞİŞLİ",
+  "Erdogan": 28.7,
+  "Kilicdaroglu": 71.3,
+  "Turnout": 85.5
+ },
+ {
+  "Province": "İstanbul",
+  "District": "SULTANBEYLİ",
+  "Erdogan": 67.1,
+  "Kilicdaroglu": 32.9,
+  "Turnout": 87.4
+ },
+ {
+  "Province": "İstanbul",
+  "District": "SULTANGAZİ",
+  "Erdogan": 59.7,
+  "Kilicdaroglu": 40.3,
+  "Turnout": 89.1
+ },
+ {
+  "Province": "İstanbul",
+  "District": "TUZLA",
+  "Erdogan": 48.8,
+  "Kilicdaroglu": 51.2,
+  "Turnout": 89
+ },
+ {
+  "Province": "İstanbul",
+  "District": "ÜMRANİYE",
+  "Erdogan": 53.7,
+  "Kilicdaroglu": 46.3,
+  "Turnout": 88.7
+ },
+ {
+  "Province": "İstanbul",
+  "District": "ÜSKÜDAR",
+  "Erdogan": 47.1,
+  "Kilicdaroglu": 52.9,
+  "Turnout": 88.4
+ },
+ {
+  "Province": "İstanbul",
+  "District": "ZEYTİNBURNU",
+  "Erdogan": 51.6,
+  "Kilicdaroglu": 48.4,
+  "Turnout": 85.4
+ },
+ {
+  "Province": "İzmir",
+  "District": "ALİAĞA",
+  "Erdogan": 36.5,
+  "Kilicdaroglu": 63.5,
+  "Turnout": 90.8
+ },
+ {
+  "Province": "İzmir",
+  "District": "BALÇOVA",
+  "Erdogan": 22.3,
+  "Kilicdaroglu": 77.7,
+  "Turnout": 88.6
+ },
+ {
+  "Province": "İzmir",
+  "District": "BAYINDIR",
+  "Erdogan": 44.7,
+  "Kilicdaroglu": 55.3,
+  "Turnout": 88
+ },
+ {
+  "Province": "İzmir",
+  "District": "BAYRAKLI",
+  "Erdogan": 35.9,
+  "Kilicdaroglu": 64.1,
+  "Turnout": 87.4
+ },
+ {
+  "Province": "İzmir",
+  "District": "BERGAMA",
+  "Erdogan": 44,
+  "Kilicdaroglu": 56,
+  "Turnout": 88.5
+ },
+ {
+  "Province": "İzmir",
+  "District": "BEYDAĞ",
+  "Erdogan": 37.8,
+  "Kilicdaroglu": 62.2,
+  "Turnout": 89.5
+ },
+ {
+  "Province": "İzmir",
+  "District": "BORNOVA",
+  "Erdogan": 32.8,
+  "Kilicdaroglu": 67.2,
+  "Turnout": 87.7
+ },
+ {
+  "Province": "İzmir",
+  "District": "BUCA",
+  "Erdogan": 34.8,
+  "Kilicdaroglu": 65.2,
+  "Turnout": 85.7
+ },
+ {
+  "Province": "İzmir",
+  "District": "ÇEŞME",
+  "Erdogan": 25.3,
+  "Kilicdaroglu": 74.7,
+  "Turnout": 84.6
+ },
+ {
+  "Province": "İzmir",
+  "District": "ÇİĞLİ",
+  "Erdogan": 27,
+  "Kilicdaroglu": 73,
+  "Turnout": 88.6
+ },
+ {
+  "Province": "İzmir",
+  "District": "DİKİLİ",
+  "Erdogan": 24.4,
+  "Kilicdaroglu": 75.6,
+  "Turnout": 87.6
+ },
+ {
+  "Province": "İzmir",
+  "District": "FOÇA",
+  "Erdogan": 25.8,
+  "Kilicdaroglu": 74.2,
+  "Turnout": 85.8
+ },
+ {
+  "Province": "İzmir",
+  "District": "GAZİEMİR",
+  "Erdogan": 32.7,
+  "Kilicdaroglu": 67.3,
+  "Turnout": 87.8
+ },
+ {
+  "Province": "İzmir",
+  "District": "GÜZELBAHÇE",
+  "Erdogan": 18.2,
+  "Kilicdaroglu": 81.8,
+  "Turnout": 89.3
+ },
+ {
+  "Province": "İzmir",
+  "District": "KARABAĞLAR",
+  "Erdogan": 36.4,
+  "Kilicdaroglu": 63.6,
+  "Turnout": 86.3
+ },
+ {
+  "Province": "İzmir",
+  "District": "KARABURUN",
+  "Erdogan": 26.2,
+  "Kilicdaroglu": 73.8,
+  "Turnout": 88.1
+ },
+ {
+  "Province": "İzmir",
+  "District": "KARŞIYAKA",
+  "Erdogan": 17,
+  "Kilicdaroglu": 83,
+  "Turnout": 89.7
+ },
+ {
+  "Province": "İzmir",
+  "District": "KEMALPAŞA",
+  "Erdogan": 50.5,
+  "Kilicdaroglu": 49.5,
+  "Turnout": 88.6
+ },
+ {
+  "Province": "İzmir",
+  "District": "KINIK",
+  "Erdogan": 39.3,
+  "Kilicdaroglu": 60.7,
+  "Turnout": 91.5
+ },
+ {
+  "Province": "İzmir",
+  "District": "KİRAZ",
+  "Erdogan": 54.8,
+  "Kilicdaroglu": 45.2,
+  "Turnout": 86
+ },
+ {
+  "Province": "İzmir",
+  "District": "KONAK",
+  "Erdogan": 28.6,
+  "Kilicdaroglu": 71.4,
+  "Turnout": 84.3
+ },
+ {
+  "Province": "İzmir",
+  "District": "MENDERES",
+  "Erdogan": 39.9,
+  "Kilicdaroglu": 60.1,
+  "Turnout": 86.5
+ },
+ {
+  "Province": "İzmir",
+  "District": "MENEMEN",
+  "Erdogan": 34.2,
+  "Kilicdaroglu": 65.8,
+  "Turnout": 86.7
+ },
+ {
+  "Province": "İzmir",
+  "District": "NARLIDERE",
+  "Erdogan": 15,
+  "Kilicdaroglu": 85,
+  "Turnout": 89.9
+ },
+ {
+  "Province": "İzmir",
+  "District": "ÖDEMİŞ",
+  "Erdogan": 45.6,
+  "Kilicdaroglu": 54.4,
+  "Turnout": 86.7
+ },
+ {
+  "Province": "İzmir",
+  "District": "SEFERİHİSAR",
+  "Erdogan": 27.6,
+  "Kilicdaroglu": 72.4,
+  "Turnout": 87.3
+ },
+ {
+  "Province": "İzmir",
+  "District": "SELÇUK",
+  "Erdogan": 32.2,
+  "Kilicdaroglu": 67.8,
+  "Turnout": 87.9
+ },
+ {
+  "Province": "İzmir",
+  "District": "TİRE",
+  "Erdogan": 41.7,
+  "Kilicdaroglu": 58.3,
+  "Turnout": 86.1
+ },
+ {
+  "Province": "İzmir",
+  "District": "TORBALI",
+  "Erdogan": 40.1,
+  "Kilicdaroglu": 59.9,
+  "Turnout": 87.2
+ },
+ {
+  "Province": "İzmir",
+  "District": "URLA",
+  "Erdogan": 20.8,
+  "Kilicdaroglu": 79.2,
+  "Turnout": 88.1
+ },
+ {
+  "Province": "Kahramanmaraş",
+  "District": "AFŞİN",
+  "Erdogan": 74.3,
+  "Kilicdaroglu": 25.7,
+  "Turnout": 81
+ },
+ {
+  "Province": "Kahramanmaraş",
+  "District": "ANDIRIN",
+  "Erdogan": 69.5,
+  "Kilicdaroglu": 30.5,
+  "Turnout": 86.2
+ },
+ {
+  "Province": "Kahramanmaraş",
+  "District": "ÇAĞLAYANCERİT",
+  "Erdogan": 66.3,
+  "Kilicdaroglu": 33.7,
+  "Turnout": 83.7
+ },
+ {
+  "Province": "Kahramanmaraş",
+  "District": "DULKADİROĞLU",
+  "Erdogan": 83.4,
+  "Kilicdaroglu": 16.6,
+  "Turnout": 84.8
+ },
+ {
+  "Province": "Kahramanmaraş",
+  "District": "EKİNÖZÜ",
+  "Erdogan": 67.6,
+  "Kilicdaroglu": 32.4,
+  "Turnout": 84.1
+ },
+ {
+  "Province": "Kahramanmaraş",
+  "District": "ELBİSTAN",
+  "Erdogan": 67.6,
+  "Kilicdaroglu": 32.4,
+  "Turnout": 75.7
+ },
+ {
+  "Province": "Kahramanmaraş",
+  "District": "GÖKSUN",
+  "Erdogan": 75.5,
+  "Kilicdaroglu": 24.5,
+  "Turnout": 80.8
+ },
+ {
+  "Province": "Kahramanmaraş",
+  "District": "NURHAK",
+  "Erdogan": 35.8,
+  "Kilicdaroglu": 64.2,
+  "Turnout": 74.9
+ },
+ {
+  "Province": "Kahramanmaraş",
+  "District": "ONİKİŞUBAT",
+  "Erdogan": 78.8,
+  "Kilicdaroglu": 21.2,
+  "Turnout": 85.4
+ },
+ {
+  "Province": "Kahramanmaraş",
+  "District": "PAZARCIK",
+  "Erdogan": 56.2,
+  "Kilicdaroglu": 43.8,
+  "Turnout": 79.4
+ },
+ {
+  "Province": "Kahramanmaraş",
+  "District": "TÜRKOĞLU",
+  "Erdogan": 81.9,
+  "Kilicdaroglu": 18.1,
+  "Turnout": 86.3
+ },
+ {
+  "Province": "Karabük",
+  "District": "EFLANİ",
+  "Erdogan": 77.7,
+  "Kilicdaroglu": 22.3,
+  "Turnout": 82.5
+ },
+ {
+  "Province": "Karabük",
+  "District": "ESKİPAZAR",
+  "Erdogan": 77.6,
+  "Kilicdaroglu": 22.4,
+  "Turnout": 85.1
+ },
+ {
+  "Province": "Karabük",
+  "District": "MERKEZ",
+  "Erdogan": 64.5,
+  "Kilicdaroglu": 35.5,
+  "Turnout": 86.4
+ },
+ {
+  "Province": "Karabük",
+  "District": "OVACIK",
+  "Erdogan": 71.9,
+  "Kilicdaroglu": 28.1,
+  "Turnout": 85.7
+ },
+ {
+  "Province": "Karabük",
+  "District": "SAFRANBOLU",
+  "Erdogan": 57,
+  "Kilicdaroglu": 43,
+  "Turnout": 88
+ },
+ {
+  "Province": "Karabük",
+  "District": "YENİCE",
+  "Erdogan": 64.1,
+  "Kilicdaroglu": 35.9,
+  "Turnout": 85.4
+ },
+ {
+  "Province": "Karaman",
+  "District": "AYRANCI",
+  "Erdogan": 62.5,
+  "Kilicdaroglu": 37.5,
+  "Turnout": 85
+ },
+ {
+  "Province": "Karaman",
+  "District": "BAŞYAYLA",
+  "Erdogan": 79.3,
+  "Kilicdaroglu": 20.7,
+  "Turnout": 84.3
+ },
+ {
+  "Province": "Karaman",
+  "District": "ERMENEK",
+  "Erdogan": 56.9,
+  "Kilicdaroglu": 43.1,
+  "Turnout": 84.5
+ },
+ {
+  "Province": "Karaman",
+  "District": "KAZIMKARABEKİR",
+  "Erdogan": 73,
+  "Kilicdaroglu": 27,
+  "Turnout": 89.1
+ },
+ {
+  "Province": "Karaman",
+  "District": "MERKEZ",
+  "Erdogan": 67.6,
+  "Kilicdaroglu": 32.4,
+  "Turnout": 86.9
+ },
+ {
+  "Province": "Karaman",
+  "District": "SARIVELİLER",
+  "Erdogan": 53.1,
+  "Kilicdaroglu": 46.9,
+  "Turnout": 83.9
+ },
+ {
+  "Province": "Kars",
+  "District": "AKYAKA",
+  "Erdogan": 47.5,
+  "Kilicdaroglu": 52.5,
+  "Turnout": 72.5
+ },
+ {
+  "Province": "Kars",
+  "District": "ARPAÇAY",
+  "Erdogan": 50,
+  "Kilicdaroglu": 50,
+  "Turnout": 74.6
+ },
+ {
+  "Province": "Kars",
+  "District": "DİGOR",
+  "Erdogan": 19,
+  "Kilicdaroglu": 81,
+  "Turnout": 69.2
+ },
+ {
+  "Province": "Kars",
+  "District": "KAĞIZMAN",
+  "Erdogan": 51,
+  "Kilicdaroglu": 49,
+  "Turnout": 69.6
+ },
+ {
+  "Province": "Kars",
+  "District": "MERKEZ",
+  "Erdogan": 36.8,
+  "Kilicdaroglu": 63.2,
+  "Turnout": 78.1
+ },
+ {
+  "Province": "Kars",
+  "District": "SARIKAMIŞ",
+  "Erdogan": 63.8,
+  "Kilicdaroglu": 36.2,
+  "Turnout": 69.7
+ },
+ {
+  "Province": "Kars",
+  "District": "SELİM",
+  "Erdogan": 53.8,
+  "Kilicdaroglu": 46.2,
+  "Turnout": 74.9
+ },
+ {
+  "Province": "Kars",
+  "District": "SUSUZ",
+  "Erdogan": 34.7,
+  "Kilicdaroglu": 65.3,
+  "Turnout": 76.7
+ },
+ {
+  "Province": "Kastamonu",
+  "District": "ABANA",
+  "Erdogan": 64.8,
+  "Kilicdaroglu": 35.2,
+  "Turnout": 85.7
+ },
+ {
+  "Province": "Kastamonu",
+  "District": "AĞLI",
+  "Erdogan": 79.5,
+  "Kilicdaroglu": 20.5,
+  "Turnout": 84.8
+ },
+ {
+  "Province": "Kastamonu",
+  "District": "ARAÇ",
+  "Erdogan": 71,
+  "Kilicdaroglu": 29,
+  "Turnout": 85.9
+ },
+ {
+  "Province": "Kastamonu",
+  "District": "AZDAVAY",
+  "Erdogan": 61,
+  "Kilicdaroglu": 39,
+  "Turnout": 82.5
+ },
+ {
+  "Province": "Kastamonu",
+  "District": "BOZKURT",
+  "Erdogan": 76.4,
+  "Kilicdaroglu": 23.6,
+  "Turnout": 84.9
+ },
+ {
+  "Province": "Kastamonu",
+  "District": "ÇATALZEYTİN",
+  "Erdogan": 75.3,
+  "Kilicdaroglu": 24.7,
+  "Turnout": 81.6
+ },
+ {
+  "Province": "Kastamonu",
+  "District": "CİDE",
+  "Erdogan": 69.6,
+  "Kilicdaroglu": 30.4,
+  "Turnout": 82.4
+ },
+ {
+  "Province": "Kastamonu",
+  "District": "DADAY",
+  "Erdogan": 62.3,
+  "Kilicdaroglu": 37.7,
+  "Turnout": 84.9
+ },
+ {
+  "Province": "Kastamonu",
+  "District": "DEVREKANİ",
+  "Erdogan": 76.6,
+  "Kilicdaroglu": 23.4,
+  "Turnout": 84.6
+ },
+ {
+  "Province": "Kastamonu",
+  "District": "DOĞANYURT",
+  "Erdogan": 83.7,
+  "Kilicdaroglu": 16.3,
+  "Turnout": 78.5
+ },
+ {
+  "Province": "Kastamonu",
+  "District": "HANÖNÜ",
+  "Erdogan": 67.2,
+  "Kilicdaroglu": 32.8,
+  "Turnout": 84.3
+ },
+ {
+  "Province": "Kastamonu",
+  "District": "İHSANGAZİ",
+  "Erdogan": 82,
+  "Kilicdaroglu": 18,
+  "Turnout": 86.5
+ },
+ {
+  "Province": "Kastamonu",
+  "District": "İNEBOLU",
+  "Erdogan": 74.2,
+  "Kilicdaroglu": 25.8,
+  "Turnout": 84.2
+ },
+ {
+  "Province": "Kastamonu",
+  "District": "KÜRE",
+  "Erdogan": 72.2,
+  "Kilicdaroglu": 27.8,
+  "Turnout": 82.9
+ },
+ {
+  "Province": "Kastamonu",
+  "District": "MERKEZ",
+  "Erdogan": 63.2,
+  "Kilicdaroglu": 36.8,
+  "Turnout": 86.1
+ },
+ {
+  "Province": "Kastamonu",
+  "District": "PINARBAŞI",
+  "Erdogan": 68.6,
+  "Kilicdaroglu": 31.4,
+  "Turnout": 78.4
+ },
+ {
+  "Province": "Kastamonu",
+  "District": "ŞENPAZAR",
+  "Erdogan": 75.7,
+  "Kilicdaroglu": 24.3,
+  "Turnout": 81.6
+ },
+ {
+  "Province": "Kastamonu",
+  "District": "SEYDİLER",
+  "Erdogan": 73.6,
+  "Kilicdaroglu": 26.4,
+  "Turnout": 86.2
+ },
+ {
+  "Province": "Kastamonu",
+  "District": "TAŞKÖPRÜ",
+  "Erdogan": 71.5,
+  "Kilicdaroglu": 28.5,
+  "Turnout": 84.5
+ },
+ {
+  "Province": "Kastamonu",
+  "District": "TOSYA",
+  "Erdogan": 81.7,
+  "Kilicdaroglu": 18.3,
+  "Turnout": 87.5
+ },
+ {
+  "Province": "Kayseri",
+  "District": "AKKIŞLA",
+  "Erdogan": 57.8,
+  "Kilicdaroglu": 42.2,
+  "Turnout": 82.8
+ },
+ {
+  "Province": "Kayseri",
+  "District": "BÜNYAN",
+  "Erdogan": 71.6,
+  "Kilicdaroglu": 28.4,
+  "Turnout": 88.4
+ },
+ {
+  "Province": "Kayseri",
+  "District": "DEVELİ",
+  "Erdogan": 77.2,
+  "Kilicdaroglu": 22.8,
+  "Turnout": 87.4
+ },
+ {
+  "Province": "Kayseri",
+  "District": "FELAHİYE",
+  "Erdogan": 65.4,
+  "Kilicdaroglu": 34.6,
+  "Turnout": 77.1
+ },
+ {
+  "Province": "Kayseri",
+  "District": "HACILAR",
+  "Erdogan": 81.7,
+  "Kilicdaroglu": 18.3,
+  "Turnout": 93.6
+ },
+ {
+  "Province": "Kayseri",
+  "District": "İNCESU",
+  "Erdogan": 73,
+  "Kilicdaroglu": 27,
+  "Turnout": 88.9
+ },
+ {
+  "Province": "Kayseri",
+  "District": "KOCASİNAN",
+  "Erdogan": 67.2,
+  "Kilicdaroglu": 32.8,
+  "Turnout": 87.9
+ },
+ {
+  "Province": "Kayseri",
+  "District": "MELİKGAZİ",
+  "Erdogan": 68.3,
+  "Kilicdaroglu": 31.7,
+  "Turnout": 88.7
+ },
+ {
+  "Province": "Kayseri",
+  "District": "ÖZVATAN",
+  "Erdogan": 75.5,
+  "Kilicdaroglu": 24.5,
+  "Turnout": 84.4
+ },
+ {
+  "Province": "Kayseri",
+  "District": "PINARBAŞI",
+  "Erdogan": 61.6,
+  "Kilicdaroglu": 38.4,
+  "Turnout": 80.7
+ },
+ {
+  "Province": "Kayseri",
+  "District": "SARIOĞLAN",
+  "Erdogan": 68,
+  "Kilicdaroglu": 32,
+  "Turnout": 84.7
+ },
+ {
+  "Province": "Kayseri",
+  "District": "SARIZ",
+  "Erdogan": 57.8,
+  "Kilicdaroglu": 42.2,
+  "Turnout": 80.5
+ },
+ {
+  "Province": "Kayseri",
+  "District": "TALAS",
+  "Erdogan": 58.5,
+  "Kilicdaroglu": 41.5,
+  "Turnout": 87.2
+ },
+ {
+  "Province": "Kayseri",
+  "District": "TOMARZA",
+  "Erdogan": 76.3,
+  "Kilicdaroglu": 23.7,
+  "Turnout": 86.8
+ },
+ {
+  "Province": "Kayseri",
+  "District": "YAHYALI",
+  "Erdogan": 83.5,
+  "Kilicdaroglu": 16.5,
+  "Turnout": 89.8
+ },
+ {
+  "Province": "Kayseri",
+  "District": "YEŞİLHİSAR",
+  "Erdogan": 66.1,
+  "Kilicdaroglu": 33.9,
+  "Turnout": 88.5
+ },
+ {
+  "Province": "Kilis",
+  "District": "ELBEYLİ",
+  "Erdogan": 68.2,
+  "Kilicdaroglu": 31.8,
+  "Turnout": 89.1
+ },
+ {
+  "Province": "Kilis",
+  "District": "MERKEZ",
+  "Erdogan": 68.5,
+  "Kilicdaroglu": 31.5,
+  "Turnout": 85.3
+ },
+ {
+  "Province": "Kilis",
+  "District": "MUSABEYLİ",
+  "Erdogan": 80.8,
+  "Kilicdaroglu": 19.2,
+  "Turnout": 87.1
+ },
+ {
+  "Province": "Kilis",
+  "District": "POLATELİ",
+  "Erdogan": 79.7,
+  "Kilicdaroglu": 20.3,
+  "Turnout": 89
+ },
+ {
+  "Province": "Kırıkkale",
+  "District": "BAHŞİLİ",
+  "Erdogan": 71.1,
+  "Kilicdaroglu": 28.9,
+  "Turnout": 86.1
+ },
+ {
+  "Province": "Kırıkkale",
+  "District": "BALIŞEYH",
+  "Erdogan": 63.7,
+  "Kilicdaroglu": 36.3,
+  "Turnout": 87.8
+ },
+ {
+  "Province": "Kırıkkale",
+  "District": "ÇELEBİ",
+  "Erdogan": 71.7,
+  "Kilicdaroglu": 28.3,
+  "Turnout": 82.5
+ },
+ {
+  "Province": "Kırıkkale",
+  "District": "DELİCE",
+  "Erdogan": 66.2,
+  "Kilicdaroglu": 33.8,
+  "Turnout": 87.2
+ },
+ {
+  "Province": "Kırıkkale",
+  "District": "KARAKEÇİLİ",
+  "Erdogan": 81.5,
+  "Kilicdaroglu": 18.5,
+  "Turnout": 90.6
+ },
+ {
+  "Province": "Kırıkkale",
+  "District": "KESKİN",
+  "Erdogan": 71.9,
+  "Kilicdaroglu": 28.1,
+  "Turnout": 85.4
+ },
+ {
+  "Province": "Kırıkkale",
+  "District": "MERKEZ",
+  "Erdogan": 63.6,
+  "Kilicdaroglu": 36.4,
+  "Turnout": 84.4
+ },
+ {
+  "Province": "Kırıkkale",
+  "District": "SULAKYURT",
+  "Erdogan": 59.5,
+  "Kilicdaroglu": 40.5,
+  "Turnout": 87.2
+ },
+ {
+  "Province": "Kırıkkale",
+  "District": "YAHŞİHAN",
+  "Erdogan": 55,
+  "Kilicdaroglu": 45,
+  "Turnout": 85.6
+ },
+ {
+  "Province": "Kırklareli",
+  "District": "BABAESKİ",
+  "Erdogan": 25.8,
+  "Kilicdaroglu": 74.2,
+  "Turnout": 88.7
+ },
+ {
+  "Province": "Kırklareli",
+  "District": "DEMİRKÖY",
+  "Erdogan": 48.6,
+  "Kilicdaroglu": 51.4,
+  "Turnout": 86
+ },
+ {
+  "Province": "Kırklareli",
+  "District": "KOFÇAZ",
+  "Erdogan": 40.9,
+  "Kilicdaroglu": 59.1,
+  "Turnout": 91.8
+ },
+ {
+  "Province": "Kırklareli",
+  "District": "LÜLEBURGAZ",
+  "Erdogan": 28.9,
+  "Kilicdaroglu": 71.1,
+  "Turnout": 89.6
+ },
+ {
+  "Province": "Kırklareli",
+  "District": "MERKEZ",
+  "Erdogan": 35.5,
+  "Kilicdaroglu": 64.5,
+  "Turnout": 87.2
+ },
+ {
+  "Province": "Kırklareli",
+  "District": "PEHLİVANKÖY",
+  "Erdogan": 30.2,
+  "Kilicdaroglu": 69.8,
+  "Turnout": 88.5
+ },
+ {
+  "Province": "Kırklareli",
+  "District": "PINARHİSAR",
+  "Erdogan": 35.9,
+  "Kilicdaroglu": 64.1,
+  "Turnout": 89.9
+ },
+ {
+  "Province": "Kırklareli",
+  "District": "VİZE",
+  "Erdogan": 33.7,
+  "Kilicdaroglu": 66.3,
+  "Turnout": 87.6
+ },
+ {
+  "Province": "Kırşehir",
+  "District": "AKÇAKENT",
+  "Erdogan": 80,
+  "Kilicdaroglu": 20,
+  "Turnout": 84.8
+ },
+ {
+  "Province": "Kırşehir",
+  "District": "AKPINAR",
+  "Erdogan": 63.6,
+  "Kilicdaroglu": 36.4,
+  "Turnout": 83
+ },
+ {
+  "Province": "Kırşehir",
+  "District": "BOZTEPE",
+  "Erdogan": 43.5,
+  "Kilicdaroglu": 56.5,
+  "Turnout": 88.6
+ },
+ {
+  "Province": "Kırşehir",
+  "District": "ÇİÇEKDAĞI",
+  "Erdogan": 72.2,
+  "Kilicdaroglu": 27.8,
+  "Turnout": 86.6
+ },
+ {
+  "Province": "Kırşehir",
+  "District": "KAMAN",
+  "Erdogan": 58.7,
+  "Kilicdaroglu": 41.3,
+  "Turnout": 79
+ },
+ {
+  "Province": "Kırşehir",
+  "District": "MERKEZ",
+  "Erdogan": 54.4,
+  "Kilicdaroglu": 45.6,
+  "Turnout": 84.3
+ },
+ {
+  "Province": "Kırşehir",
+  "District": "MUCUR",
+  "Erdogan": 62.6,
+  "Kilicdaroglu": 37.4,
+  "Turnout": 86.1
+ },
+ {
+  "Province": "Kocaeli",
+  "District": "BAŞİSKELE",
+  "Erdogan": 64.4,
+  "Kilicdaroglu": 35.6,
+  "Turnout": 90.9
+ },
+ {
+  "Province": "Kocaeli",
+  "District": "ÇAYIROVA",
+  "Erdogan": 58.8,
+  "Kilicdaroglu": 41.2,
+  "Turnout": 88.1
+ },
+ {
+  "Province": "Kocaeli",
+  "District": "DARICA",
+  "Erdogan": 55.7,
+  "Kilicdaroglu": 44.3,
+  "Turnout": 88.5
+ },
+ {
+  "Province": "Kocaeli",
+  "District": "DERİNCE",
+  "Erdogan": 54.2,
+  "Kilicdaroglu": 45.8,
+  "Turnout": 88.6
+ },
+ {
+  "Province": "Kocaeli",
+  "District": "DİLOVASI",
+  "Erdogan": 56.4,
+  "Kilicdaroglu": 43.6,
+  "Turnout": 83.8
+ },
+ {
+  "Province": "Kocaeli",
+  "District": "GEBZE",
+  "Erdogan": 60,
+  "Kilicdaroglu": 40,
+  "Turnout": 88.2
+ },
+ {
+  "Province": "Kocaeli",
+  "District": "GÖLCÜK",
+  "Erdogan": 56.2,
+  "Kilicdaroglu": 43.8,
+  "Turnout": 88.6
+ },
+ {
+  "Province": "Kocaeli",
+  "District": "İZMİT",
+  "Erdogan": 51.4,
+  "Kilicdaroglu": 48.6,
+  "Turnout": 88.6
+ },
+ {
+  "Province": "Kocaeli",
+  "District": "KANDIRA",
+  "Erdogan": 67.3,
+  "Kilicdaroglu": 32.7,
+  "Turnout": 92.1
+ },
+ {
+  "Province": "Kocaeli",
+  "District": "KARAMÜRSEL",
+  "Erdogan": 58.1,
+  "Kilicdaroglu": 41.9,
+  "Turnout": 85.3
+ },
+ {
+  "Province": "Kocaeli",
+  "District": "KARTEPE",
+  "Erdogan": 61.1,
+  "Kilicdaroglu": 38.9,
+  "Turnout": 90
+ },
+ {
+  "Province": "Kocaeli",
+  "District": "KÖRFEZ",
+  "Erdogan": 54.3,
+  "Kilicdaroglu": 45.7,
+  "Turnout": 87.4
+ },
+ {
+  "Province": "Konya",
+  "District": "AHIRLI",
+  "Erdogan": 74.8,
+  "Kilicdaroglu": 25.2,
+  "Turnout": 86.4
+ },
+ {
+  "Province": "Konya",
+  "District": "AKÖREN",
+  "Erdogan": 81.4,
+  "Kilicdaroglu": 18.6,
+  "Turnout": 88.5
+ },
+ {
+  "Province": "Konya",
+  "District": "AKŞEHİR",
+  "Erdogan": 63,
+  "Kilicdaroglu": 37,
+  "Turnout": 84.1
+ },
+ {
+  "Province": "Konya",
+  "District": "ALTINEKİN",
+  "Erdogan": 85.2,
+  "Kilicdaroglu": 14.8,
+  "Turnout": 92.5
+ },
+ {
+  "Province": "Konya",
+  "District": "BEYŞEHİR",
+  "Erdogan": 72.2,
+  "Kilicdaroglu": 27.8,
+  "Turnout": 87.3
+ },
+ {
+  "Province": "Konya",
+  "District": "BOZKIR",
+  "Erdogan": 76.5,
+  "Kilicdaroglu": 23.5,
+  "Turnout": 83.7
+ },
+ {
+  "Province": "Konya",
+  "District": "ÇELTİK",
+  "Erdogan": 71.8,
+  "Kilicdaroglu": 28.2,
+  "Turnout": 80.3
+ },
+ {
+  "Province": "Konya",
+  "District": "CİHANBEYLİ",
+  "Erdogan": 55.5,
+  "Kilicdaroglu": 44.5,
+  "Turnout": 71.7
+ },
+ {
+  "Province": "Konya",
+  "District": "ÇUMRA",
+  "Erdogan": 80.6,
+  "Kilicdaroglu": 19.4,
+  "Turnout": 89.5
+ },
+ {
+  "Province": "Konya",
+  "District": "DERBENT",
+  "Erdogan": 73,
+  "Kilicdaroglu": 27,
+  "Turnout": 92.7
+ },
+ {
+  "Province": "Konya",
+  "District": "DEREBUCAK",
+  "Erdogan": 71.4,
+  "Kilicdaroglu": 28.6,
+  "Turnout": 78.3
+ },
+ {
+  "Province": "Konya",
+  "District": "DOĞANHİSAR",
+  "Erdogan": 67.9,
+  "Kilicdaroglu": 32.1,
+  "Turnout": 86.4
+ },
+ {
+  "Province": "Konya",
+  "District": "EMİRGAZİ",
+  "Erdogan": 66.5,
+  "Kilicdaroglu": 33.5,
+  "Turnout": 80
+ },
+ {
+  "Province": "Konya",
+  "District": "EREĞLİ",
+  "Erdogan": 57.6,
+  "Kilicdaroglu": 42.4,
+  "Turnout": 84.3
+ },
+ {
+  "Province": "Konya",
+  "District": "GÜNEYSINIR",
+  "Erdogan": 89.6,
+  "Kilicdaroglu": 10.4,
+  "Turnout": 91.9
+ },
+ {
+  "Province": "Konya",
+  "District": "HADİM",
+  "Erdogan": 72.9,
+  "Kilicdaroglu": 27.1,
+  "Turnout": 86.1
+ },
+ {
+  "Province": "Konya",
+  "District": "HALKAPINAR",
+  "Erdogan": 75.9,
+  "Kilicdaroglu": 24.1,
+  "Turnout": 88.9
+ },
+ {
+  "Province": "Konya",
+  "District": "HÜYÜK",
+  "Erdogan": 66.7,
+  "Kilicdaroglu": 33.3,
+  "Turnout": 87.7
+ },
+ {
+  "Province": "Konya",
+  "District": "ILGIN",
+  "Erdogan": 70.5,
+  "Kilicdaroglu": 29.5,
+  "Turnout": 86.2
+ },
+ {
+  "Province": "Konya",
+  "District": "KADINHANI",
+  "Erdogan": 83.1,
+  "Kilicdaroglu": 16.9,
+  "Turnout": 90.4
+ },
+ {
+  "Province": "Konya",
+  "District": "KARAPINAR",
+  "Erdogan": 70.9,
+  "Kilicdaroglu": 29.1,
+  "Turnout": 85.8
+ },
+ {
+  "Province": "Konya",
+  "District": "KARATAY",
+  "Erdogan": 82.2,
+  "Kilicdaroglu": 17.8,
+  "Turnout": 87.4
+ },
+ {
+  "Province": "Konya",
+  "District": "KULU",
+  "Erdogan": 66.1,
+  "Kilicdaroglu": 33.9,
+  "Turnout": 68.5
+ },
+ {
+  "Province": "Konya",
+  "District": "MERAM",
+  "Erdogan": 78.9,
+  "Kilicdaroglu": 21.1,
+  "Turnout": 88.3
+ },
+ {
+  "Province": "Konya",
+  "District": "SARAYÖNÜ",
+  "Erdogan": 83.5,
+  "Kilicdaroglu": 16.5,
+  "Turnout": 89.5
+ },
+ {
+  "Province": "Konya",
+  "District": "SELÇUKLU",
+  "Erdogan": 71.3,
+  "Kilicdaroglu": 28.7,
+  "Turnout": 86.8
+ },
+ {
+  "Province": "Konya",
+  "District": "SEYDİŞEHİR",
+  "Erdogan": 60.1,
+  "Kilicdaroglu": 39.9,
+  "Turnout": 88.2
+ },
+ {
+  "Province": "Konya",
+  "District": "TAŞKENT",
+  "Erdogan": 70.5,
+  "Kilicdaroglu": 29.5,
+  "Turnout": 86.6
+ },
+ {
+  "Province": "Konya",
+  "District": "TUZLUKÇU",
+  "Erdogan": 60,
+  "Kilicdaroglu": 40,
+  "Turnout": 84.3
+ },
+ {
+  "Province": "Konya",
+  "District": "YALIHÜYÜK",
+  "Erdogan": 78.4,
+  "Kilicdaroglu": 21.6,
+  "Turnout": 82.8
+ },
+ {
+  "Province": "Konya",
+  "District": "YUNAK",
+  "Erdogan": 75.3,
+  "Kilicdaroglu": 24.7,
+  "Turnout": 76.7
+ },
+ {
+  "Province": "Kütahya",
+  "District": "ALTINTAŞ",
+  "Erdogan": 75.3,
+  "Kilicdaroglu": 24.7,
+  "Turnout": 86.8
+ },
+ {
+  "Province": "Kütahya",
+  "District": "ASLANAPA",
+  "Erdogan": 86.8,
+  "Kilicdaroglu": 13.2,
+  "Turnout": 92.2
+ },
+ {
+  "Province": "Kütahya",
+  "District": "ÇAVDARHİSAR",
+  "Erdogan": 69.7,
+  "Kilicdaroglu": 30.3,
+  "Turnout": 85.8
+ },
+ {
+  "Province": "Kütahya",
+  "District": "DOMANİÇ",
+  "Erdogan": 69.3,
+  "Kilicdaroglu": 30.7,
+  "Turnout": 88.7
+ },
+ {
+  "Province": "Kütahya",
+  "District": "DUMLUPINAR",
+  "Erdogan": 69.4,
+  "Kilicdaroglu": 30.6,
+  "Turnout": 81.5
+ },
+ {
+  "Province": "Kütahya",
+  "District": "EMET",
+  "Erdogan": 75.9,
+  "Kilicdaroglu": 24.1,
+  "Turnout": 88.5
+ },
+ {
+  "Province": "Kütahya",
+  "District": "GEDİZ",
+  "Erdogan": 69.7,
+  "Kilicdaroglu": 30.3,
+  "Turnout": 89.6
+ },
+ {
+  "Province": "Kütahya",
+  "District": "HİSARCIK",
+  "Erdogan": 72.3,
+  "Kilicdaroglu": 27.7,
+  "Turnout": 88.8
+ },
+ {
+  "Province": "Kütahya",
+  "District": "MERKEZ",
+  "Erdogan": 68.4,
+  "Kilicdaroglu": 31.6,
+  "Turnout": 89.5
+ },
+ {
+  "Province": "Kütahya",
+  "District": "PAZARLAR",
+  "Erdogan": 77.1,
+  "Kilicdaroglu": 22.9,
+  "Turnout": 89.3
+ },
+ {
+  "Province": "Kütahya",
+  "District": "ŞAPHANE",
+  "Erdogan": 70.8,
+  "Kilicdaroglu": 29.2,
+  "Turnout": 88.3
+ },
+ {
+  "Province": "Kütahya",
+  "District": "SİMAV",
+  "Erdogan": 70.6,
+  "Kilicdaroglu": 29.4,
+  "Turnout": 89
+ },
+ {
+  "Province": "Kütahya",
+  "District": "TAVŞANLI",
+  "Erdogan": 72.9,
+  "Kilicdaroglu": 27.1,
+  "Turnout": 90.1
+ },
+ {
+  "Province": "Malatya",
+  "District": "AKÇADAĞ",
+  "Erdogan": 59.8,
+  "Kilicdaroglu": 40.2,
+  "Turnout": 86.7
+ },
+ {
+  "Province": "Malatya",
+  "District": "ARAPGİR",
+  "Erdogan": 57.1,
+  "Kilicdaroglu": 42.9,
+  "Turnout": 83.9
+ },
+ {
+  "Province": "Malatya",
+  "District": "ARGUVAN",
+  "Erdogan": 20.8,
+  "Kilicdaroglu": 79.2,
+  "Turnout": 90.8
+ },
+ {
+  "Province": "Malatya",
+  "District": "BATTALGAZİ",
+  "Erdogan": 79.3,
+  "Kilicdaroglu": 20.7,
+  "Turnout": 78.8
+ },
+ {
+  "Province": "Malatya",
+  "District": "DARENDE",
+  "Erdogan": 82.3,
+  "Kilicdaroglu": 17.7,
+  "Turnout": 85.3
+ },
+ {
+  "Province": "Malatya",
+  "District": "DOĞANŞEHİR",
+  "Erdogan": 59.8,
+  "Kilicdaroglu": 40.2,
+  "Turnout": 83
+ },
+ {
+  "Province": "Malatya",
+  "District": "DOĞANYOL",
+  "Erdogan": 82.5,
+  "Kilicdaroglu": 17.5,
+  "Turnout": 81.2
+ },
+ {
+  "Province": "Malatya",
+  "District": "HEKİMHAN",
+  "Erdogan": 44.8,
+  "Kilicdaroglu": 55.2,
+  "Turnout": 88.5
+ },
+ {
+  "Province": "Malatya",
+  "District": "KALE",
+  "Erdogan": 89.8,
+  "Kilicdaroglu": 10.2,
+  "Turnout": 90.9
+ },
+ {
+  "Province": "Malatya",
+  "District": "KULUNCAK",
+  "Erdogan": 67.1,
+  "Kilicdaroglu": 32.9,
+  "Turnout": 87.6
+ },
+ {
+  "Province": "Malatya",
+  "District": "PÜTÜRGE",
+  "Erdogan": 83.7,
+  "Kilicdaroglu": 16.3,
+  "Turnout": 82.1
+ },
+ {
+  "Province": "Malatya",
+  "District": "YAZIHAN",
+  "Erdogan": 66.2,
+  "Kilicdaroglu": 33.8,
+  "Turnout": 86.7
+ },
+ {
+  "Province": "Malatya",
+  "District": "YEŞİLYURT",
+  "Erdogan": 70.5,
+  "Kilicdaroglu": 29.5,
+  "Turnout": 77.6
+ },
+ {
+  "Province": "Manisa",
+  "District": "AHMETLİ",
+  "Erdogan": 53.6,
+  "Kilicdaroglu": 46.4,
+  "Turnout": 89.2
+ },
+ {
+  "Province": "Manisa",
+  "District": "AKHİSAR",
+  "Erdogan": 48,
+  "Kilicdaroglu": 52,
+  "Turnout": 89.2
+ },
+ {
+  "Province": "Manisa",
+  "District": "ALAŞEHİR",
+  "Erdogan": 50.8,
+  "Kilicdaroglu": 49.2,
+  "Turnout": 87.7
+ },
+ {
+  "Province": "Manisa",
+  "District": "DEMİRCİ",
+  "Erdogan": 71.5,
+  "Kilicdaroglu": 28.5,
+  "Turnout": 89.3
+ },
+ {
+  "Province": "Manisa",
+  "District": "GÖLMARMARA",
+  "Erdogan": 43,
+  "Kilicdaroglu": 57,
+  "Turnout": 89.9
+ },
+ {
+  "Province": "Manisa",
+  "District": "GÖRDES",
+  "Erdogan": 65.5,
+  "Kilicdaroglu": 34.5,
+  "Turnout": 89.2
+ },
+ {
+  "Province": "Manisa",
+  "District": "KIRKAĞAÇ",
+  "Erdogan": 69,
+  "Kilicdaroglu": 31,
+  "Turnout": 90
+ },
+ {
+  "Province": "Manisa",
+  "District": "KÖPRÜBAŞI",
+  "Erdogan": 57.8,
+  "Kilicdaroglu": 42.2,
+  "Turnout": 88.6
+ },
+ {
+  "Province": "Manisa",
+  "District": "KULA",
+  "Erdogan": 60.8,
+  "Kilicdaroglu": 39.2,
+  "Turnout": 88.7
+ },
+ {
+  "Province": "Manisa",
+  "District": "SALİHLİ",
+  "Erdogan": 42.1,
+  "Kilicdaroglu": 57.9,
+  "Turnout": 88.2
+ },
+ {
+  "Province": "Manisa",
+  "District": "SARIGÖL",
+  "Erdogan": 43.1,
+  "Kilicdaroglu": 56.9,
+  "Turnout": 89.4
+ },
+ {
+  "Province": "Manisa",
+  "District": "SARUHANLI",
+  "Erdogan": 45.6,
+  "Kilicdaroglu": 54.4,
+  "Turnout": 90.2
+ },
+ {
+  "Province": "Manisa",
+  "District": "ŞEHZADELER",
+  "Erdogan": 48.1,
+  "Kilicdaroglu": 51.9,
+  "Turnout": 88.3
+ },
+ {
+  "Province": "Manisa",
+  "District": "SELENDİ",
+  "Erdogan": 67.4,
+  "Kilicdaroglu": 32.6,
+  "Turnout": 88
+ },
+ {
+  "Province": "Manisa",
+  "District": "SOMA",
+  "Erdogan": 55.6,
+  "Kilicdaroglu": 44.4,
+  "Turnout": 89.8
+ },
+ {
+  "Province": "Manisa",
+  "District": "TURGUTLU",
+  "Erdogan": 50.7,
+  "Kilicdaroglu": 49.3,
+  "Turnout": 86.8
+ },
+ {
+  "Province": "Manisa",
+  "District": "YUNUSEMRE",
+  "Erdogan": 46.1,
+  "Kilicdaroglu": 53.9,
+  "Turnout": 89
+ },
+ {
+  "Province": "Mardin",
+  "District": "ARTUKLU",
+  "Erdogan": 51.6,
+  "Kilicdaroglu": 48.4,
+  "Turnout": 83
+ },
+ {
+  "Province": "Mardin",
+  "District": "DARGEÇİT",
+  "Erdogan": 31.8,
+  "Kilicdaroglu": 68.2,
+  "Turnout": 72.5
+ },
+ {
+  "Province": "Mardin",
+  "District": "DERİK",
+  "Erdogan": 21.2,
+  "Kilicdaroglu": 78.8,
+  "Turnout": 76.6
+ },
+ {
+  "Province": "Mardin",
+  "District": "KIZILTEPE",
+  "Erdogan": 20.3,
+  "Kilicdaroglu": 79.7,
+  "Turnout": 81.2
+ },
+ {
+  "Province": "Mardin",
+  "District": "MAZIDAĞI",
+  "Erdogan": 24.5,
+  "Kilicdaroglu": 75.5,
+  "Turnout": 77
+ },
+ {
+  "Province": "Mardin",
+  "District": "MİDYAT",
+  "Erdogan": 56,
+  "Kilicdaroglu": 44,
+  "Turnout": 74
+ },
+ {
+  "Province": "Mardin",
+  "District": "NUSAYBİN",
+  "Erdogan": 16.3,
+  "Kilicdaroglu": 83.7,
+  "Turnout": 75.2
+ },
+ {
+  "Province": "Mardin",
+  "District": "ÖMERLİ",
+  "Erdogan": 57.6,
+  "Kilicdaroglu": 42.4,
+  "Turnout": 79.5
+ },
+ {
+  "Province": "Mardin",
+  "District": "SAVUR",
+  "Erdogan": 49.7,
+  "Kilicdaroglu": 50.3,
+  "Turnout": 73.4
+ },
+ {
+  "Province": "Mardin",
+  "District": "YEŞİLLİ",
+  "Erdogan": 76.6,
+  "Kilicdaroglu": 23.4,
+  "Turnout": 94
+ },
+ {
+  "Province": "Mersin",
+  "District": "AKDENİZ",
+  "Erdogan": 33.3,
+  "Kilicdaroglu": 66.7,
+  "Turnout": 86.2
+ },
+ {
+  "Province": "Mersin",
+  "District": "ANAMUR",
+  "Erdogan": 44.6,
+  "Kilicdaroglu": 55.4,
+  "Turnout": 87.8
+ },
+ {
+  "Province": "Mersin",
+  "District": "AYDINCIK",
+  "Erdogan": 53.4,
+  "Kilicdaroglu": 46.6,
+  "Turnout": 89.6
+ },
+ {
+  "Province": "Mersin",
+  "District": "BOZYAZI",
+  "Erdogan": 51.2,
+  "Kilicdaroglu": 48.8,
+  "Turnout": 89.9
+ },
+ {
+  "Province": "Mersin",
+  "District": "ÇAMLIYAYLA",
+  "Erdogan": 59.8,
+  "Kilicdaroglu": 40.2,
+  "Turnout": 88
+ },
+ {
+  "Province": "Mersin",
+  "District": "ERDEMLİ",
+  "Erdogan": 54.8,
+  "Kilicdaroglu": 45.2,
+  "Turnout": 88
+ },
+ {
+  "Province": "Mersin",
+  "District": "GÜLNAR",
+  "Erdogan": 55.9,
+  "Kilicdaroglu": 44.1,
+  "Turnout": 88.7
+ },
+ {
+  "Province": "Mersin",
+  "District": "MEZİTLİ",
+  "Erdogan": 31.3,
+  "Kilicdaroglu": 68.7,
+  "Turnout": 85.8
+ },
+ {
+  "Province": "Mersin",
+  "District": "MUT",
+  "Erdogan": 52.7,
+  "Kilicdaroglu": 47.3,
+  "Turnout": 87.8
+ },
+ {
+  "Province": "Mersin",
+  "District": "SİLİFKE",
+  "Erdogan": 41.7,
+  "Kilicdaroglu": 58.3,
+  "Turnout": 87.5
+ },
+ {
+  "Province": "Mersin",
+  "District": "TARSUS",
+  "Erdogan": 42.8,
+  "Kilicdaroglu": 57.2,
+  "Turnout": 85.8
+ },
+ {
+  "Province": "Mersin",
+  "District": "TOROSLAR",
+  "Erdogan": 43.3,
+  "Kilicdaroglu": 56.7,
+  "Turnout": 84.8
+ },
+ {
+  "Province": "Mersin",
+  "District": "YENİŞEHİR",
+  "Erdogan": 26,
+  "Kilicdaroglu": 74,
+  "Turnout": 86
+ },
+ {
+  "Province": "Muğla",
+  "District": "BODRUM",
+  "Erdogan": 21.4,
+  "Kilicdaroglu": 78.6,
+  "Turnout": 85.3
+ },
+ {
+  "Province": "Muğla",
+  "District": "DALAMAN",
+  "Erdogan": 38.6,
+  "Kilicdaroglu": 61.4,
+  "Turnout": 87.1
+ },
+ {
+  "Province": "Muğla",
+  "District": "DATÇA",
+  "Erdogan": 23.7,
+  "Kilicdaroglu": 76.3,
+  "Turnout": 86.6
+ },
+ {
+  "Province": "Muğla",
+  "District": "FETHİYE",
+  "Erdogan": 38.4,
+  "Kilicdaroglu": 61.6,
+  "Turnout": 86.6
+ },
+ {
+  "Province": "Muğla",
+  "District": "KAVAKLIDERE",
+  "Erdogan": 60.1,
+  "Kilicdaroglu": 39.9,
+  "Turnout": 91.8
+ },
+ {
+  "Province": "Muğla",
+  "District": "KÖYCEĞİZ",
+  "Erdogan": 42.5,
+  "Kilicdaroglu": 57.5,
+  "Turnout": 86.5
+ },
+ {
+  "Province": "Muğla",
+  "District": "MARMARİS",
+  "Erdogan": 28.6,
+  "Kilicdaroglu": 71.4,
+  "Turnout": 84.2
+ },
+ {
+  "Province": "Muğla",
+  "District": "MENTEŞE",
+  "Erdogan": 30.8,
+  "Kilicdaroglu": 69.2,
+  "Turnout": 89.1
+ },
+ {
+  "Province": "Muğla",
+  "District": "MİLAS",
+  "Erdogan": 31.9,
+  "Kilicdaroglu": 68.1,
+  "Turnout": 88
+ },
+ {
+  "Province": "Muğla",
+  "District": "ORTACA",
+  "Erdogan": 32.9,
+  "Kilicdaroglu": 67.1,
+  "Turnout": 88.2
+ },
+ {
+  "Province": "Muğla",
+  "District": "SEYDİKEMER",
+  "Erdogan": 58.4,
+  "Kilicdaroglu": 41.6,
+  "Turnout": 87.3
+ },
+ {
+  "Province": "Muğla",
+  "District": "ULA",
+  "Erdogan": 35.7,
+  "Kilicdaroglu": 64.3,
+  "Turnout": 88.7
+ },
+ {
+  "Province": "Muğla",
+  "District": "YATAĞAN",
+  "Erdogan": 38.6,
+  "Kilicdaroglu": 61.4,
+  "Turnout": 91
+ },
+ {
+  "Province": "Muş",
+  "District": "BULANIK",
+  "Erdogan": 20.8,
+  "Kilicdaroglu": 79.2,
+  "Turnout": 68.2
+ },
+ {
+  "Province": "Muş",
+  "District": "HASKÖY",
+  "Erdogan": 79.5,
+  "Kilicdaroglu": 20.5,
+  "Turnout": 87.7
+ },
+ {
+  "Province": "Muş",
+  "District": "KORKUT",
+  "Erdogan": 31.3,
+  "Kilicdaroglu": 68.7,
+  "Turnout": 71.7
+ },
+ {
+  "Province": "Muş",
+  "District": "MALAZGİRT",
+  "Erdogan": 22.4,
+  "Kilicdaroglu": 77.6,
+  "Turnout": 71.3
+ },
+ {
+  "Province": "Muş",
+  "District": "MERKEZ",
+  "Erdogan": 53.7,
+  "Kilicdaroglu": 46.3,
+  "Turnout": 74.4
+ },
+ {
+  "Province": "Muş",
+  "District": "VARTO",
+  "Erdogan": 10.8,
+  "Kilicdaroglu": 89.2,
+  "Turnout": 74.3
+ },
+ {
+  "Province": "Nevşehir",
+  "District": "ACIGÖL",
+  "Erdogan": 89.3,
+  "Kilicdaroglu": 10.7,
+  "Turnout": 89.8
+ },
+ {
+  "Province": "Nevşehir",
+  "District": "AVANOS",
+  "Erdogan": 56,
+  "Kilicdaroglu": 44,
+  "Turnout": 86.7
+ },
+ {
+  "Province": "Nevşehir",
+  "District": "DERİNKUYU",
+  "Erdogan": 68.4,
+  "Kilicdaroglu": 31.6,
+  "Turnout": 87.4
+ },
+ {
+  "Province": "Nevşehir",
+  "District": "GÜLŞEHİR",
+  "Erdogan": 71.2,
+  "Kilicdaroglu": 28.8,
+  "Turnout": 85.6
+ },
+ {
+  "Province": "Nevşehir",
+  "District": "HACIBEKTAŞ",
+  "Erdogan": 32.4,
+  "Kilicdaroglu": 67.6,
+  "Turnout": 88.6
+ },
+ {
+  "Province": "Nevşehir",
+  "District": "KOZAKLI",
+  "Erdogan": 58,
+  "Kilicdaroglu": 42,
+  "Turnout": 85.4
+ },
+ {
+  "Province": "Nevşehir",
+  "District": "MERKEZ",
+  "Erdogan": 70.3,
+  "Kilicdaroglu": 29.7,
+  "Turnout": 88.4
+ },
+ {
+  "Province": "Nevşehir",
+  "District": "ÜRGÜP",
+  "Erdogan": 60.7,
+  "Kilicdaroglu": 39.3,
+  "Turnout": 88.6
+ },
+ {
+  "Province": "Niğde",
+  "District": "ALTUNHİSAR",
+  "Erdogan": 79.4,
+  "Kilicdaroglu": 20.6,
+  "Turnout": 79.9
+ },
+ {
+  "Province": "Niğde",
+  "District": "BOR",
+  "Erdogan": 64,
+  "Kilicdaroglu": 36,
+  "Turnout": 87.3
+ },
+ {
+  "Province": "Niğde",
+  "District": "ÇAMARDI",
+  "Erdogan": 75.2,
+  "Kilicdaroglu": 24.8,
+  "Turnout": 81.3
+ },
+ {
+  "Province": "Niğde",
+  "District": "ÇİFTLİK",
+  "Erdogan": 61.5,
+  "Kilicdaroglu": 38.5,
+  "Turnout": 77.6
+ },
+ {
+  "Province": "Niğde",
+  "District": "MERKEZ",
+  "Erdogan": 60.9,
+  "Kilicdaroglu": 39.1,
+  "Turnout": 85.5
+ },
+ {
+  "Province": "Niğde",
+  "District": "ULUKIŞLA",
+  "Erdogan": 52.5,
+  "Kilicdaroglu": 47.5,
+  "Turnout": 85.6
+ },
+ {
+  "Province": "Ordu",
+  "District": "AKKUŞ",
+  "Erdogan": 79.4,
+  "Kilicdaroglu": 20.6,
+  "Turnout": 79.6
+ },
+ {
+  "Province": "Ordu",
+  "District": "ALTINORDU",
+  "Erdogan": 53.1,
+  "Kilicdaroglu": 46.9,
+  "Turnout": 85.6
+ },
+ {
+  "Province": "Ordu",
+  "District": "AYBASTI",
+  "Erdogan": 77.7,
+  "Kilicdaroglu": 22.3,
+  "Turnout": 81.3
+ },
+ {
+  "Province": "Ordu",
+  "District": "ÇAMAŞ",
+  "Erdogan": 74.3,
+  "Kilicdaroglu": 25.7,
+  "Turnout": 83.9
+ },
+ {
+  "Province": "Ordu",
+  "District": "ÇATALPINAR",
+  "Erdogan": 88.1,
+  "Kilicdaroglu": 11.9,
+  "Turnout": 86.4
+ },
+ {
+  "Province": "Ordu",
+  "District": "ÇAYBAŞI",
+  "Erdogan": 84,
+  "Kilicdaroglu": 16,
+  "Turnout": 82.7
+ },
+ {
+  "Province": "Ordu",
+  "District": "FATSA",
+  "Erdogan": 63.2,
+  "Kilicdaroglu": 36.8,
+  "Turnout": 83.7
+ },
+ {
+  "Province": "Ordu",
+  "District": "GÖLKÖY",
+  "Erdogan": 66.3,
+  "Kilicdaroglu": 33.7,
+  "Turnout": 78.5
+ },
+ {
+  "Province": "Ordu",
+  "District": "GÜLYALI",
+  "Erdogan": 53.7,
+  "Kilicdaroglu": 46.3,
+  "Turnout": 88.5
+ },
+ {
+  "Province": "Ordu",
+  "District": "GÜRGENTEPE",
+  "Erdogan": 52.6,
+  "Kilicdaroglu": 47.4,
+  "Turnout": 86.7
+ },
+ {
+  "Province": "Ordu",
+  "District": "İKİZCE",
+  "Erdogan": 77.9,
+  "Kilicdaroglu": 22.1,
+  "Turnout": 85.4
+ },
+ {
+  "Province": "Ordu",
+  "District": "KABADÜZ",
+  "Erdogan": 73.7,
+  "Kilicdaroglu": 26.3,
+  "Turnout": 86.6
+ },
+ {
+  "Province": "Ordu",
+  "District": "KABATAŞ",
+  "Erdogan": 76.4,
+  "Kilicdaroglu": 23.6,
+  "Turnout": 83.9
+ },
+ {
+  "Province": "Ordu",
+  "District": "KORGAN",
+  "Erdogan": 84.2,
+  "Kilicdaroglu": 15.8,
+  "Turnout": 83
+ },
+ {
+  "Province": "Ordu",
+  "District": "KUMRU",
+  "Erdogan": 86.7,
+  "Kilicdaroglu": 13.3,
+  "Turnout": 82.7
+ },
+ {
+  "Province": "Ordu",
+  "District": "MESUDİYE",
+  "Erdogan": 70.4,
+  "Kilicdaroglu": 29.6,
+  "Turnout": 77.6
+ },
+ {
+  "Province": "Ordu",
+  "District": "PERŞEMBE",
+  "Erdogan": 54.3,
+  "Kilicdaroglu": 45.7,
+  "Turnout": 84.6
+ },
+ {
+  "Province": "Ordu",
+  "District": "ULUBEY",
+  "Erdogan": 65.5,
+  "Kilicdaroglu": 34.5,
+  "Turnout": 86.5
+ },
+ {
+  "Province": "Ordu",
+  "District": "ÜNYE",
+  "Erdogan": 72.6,
+  "Kilicdaroglu": 27.4,
+  "Turnout": 85.5
+ },
+ {
+  "Province": "Osmaniye",
+  "District": "BAHÇE",
+  "Erdogan": 76.8,
+  "Kilicdaroglu": 23.2,
+  "Turnout": 88.4
+ },
+ {
+  "Province": "Osmaniye",
+  "District": "DÜZİÇİ",
+  "Erdogan": 66.8,
+  "Kilicdaroglu": 33.2,
+  "Turnout": 84.9
+ },
+ {
+  "Province": "Osmaniye",
+  "District": "HASANBEYLİ",
+  "Erdogan": 68.8,
+  "Kilicdaroglu": 31.2,
+  "Turnout": 87.9
+ },
+ {
+  "Province": "Osmaniye",
+  "District": "KADİRLİ",
+  "Erdogan": 62.8,
+  "Kilicdaroglu": 37.2,
+  "Turnout": 84.6
+ },
+ {
+  "Province": "Osmaniye",
+  "District": "MERKEZ",
+  "Erdogan": 67.2,
+  "Kilicdaroglu": 32.8,
+  "Turnout": 83.2
+ },
+ {
+  "Province": "Osmaniye",
+  "District": "SUMBAS",
+  "Erdogan": 65.2,
+  "Kilicdaroglu": 34.8,
+  "Turnout": 85.2
+ },
+ {
+  "Province": "Osmaniye",
+  "District": "TOPRAKKALE",
+  "Erdogan": 59.5,
+  "Kilicdaroglu": 40.5,
+  "Turnout": 91.5
+ },
+ {
+  "Province": "Rize",
+  "District": "ARDEŞEN",
+  "Erdogan": 68.9,
+  "Kilicdaroglu": 31.1,
+  "Turnout": 86.1
+ },
+ {
+  "Province": "Rize",
+  "District": "ÇAMLIHEMŞİN",
+  "Erdogan": 74.1,
+  "Kilicdaroglu": 25.9,
+  "Turnout": 85.5
+ },
+ {
+  "Province": "Rize",
+  "District": "ÇAYELİ",
+  "Erdogan": 83.2,
+  "Kilicdaroglu": 16.8,
+  "Turnout": 88
+ },
+ {
+  "Province": "Rize",
+  "District": "DEREPAZARI",
+  "Erdogan": 84.1,
+  "Kilicdaroglu": 15.9,
+  "Turnout": 88.8
+ },
+ {
+  "Province": "Rize",
+  "District": "FINDIKLI",
+  "Erdogan": 51,
+  "Kilicdaroglu": 49,
+  "Turnout": 86.7
+ },
+ {
+  "Province": "Rize",
+  "District": "GÜNEYSU",
+  "Erdogan": 87.7,
+  "Kilicdaroglu": 12.3,
+  "Turnout": 92.5
+ },
+ {
+  "Province": "Rize",
+  "District": "HEMŞİN",
+  "Erdogan": 65.3,
+  "Kilicdaroglu": 34.7,
+  "Turnout": 82.9
+ },
+ {
+  "Province": "Rize",
+  "District": "İKİZDERE",
+  "Erdogan": 88.3,
+  "Kilicdaroglu": 11.7,
+  "Turnout": 82.2
+ },
+ {
+  "Province": "Rize",
+  "District": "İYİDERE",
+  "Erdogan": 86.1,
+  "Kilicdaroglu": 13.9,
+  "Turnout": 88.9
+ },
+ {
+  "Province": "Rize",
+  "District": "KALKANDERE",
+  "Erdogan": 83.5,
+  "Kilicdaroglu": 16.5,
+  "Turnout": 90.1
+ },
+ {
+  "Province": "Rize",
+  "District": "MERKEZ",
+  "Erdogan": 77.6,
+  "Kilicdaroglu": 22.4,
+  "Turnout": 87.3
+ },
+ {
+  "Province": "Rize",
+  "District": "PAZAR",
+  "Erdogan": 64.7,
+  "Kilicdaroglu": 35.3,
+  "Turnout": 84.8
+ },
+ {
+  "Province": "Sakarya",
+  "District": "ADAPAZARI",
+  "Erdogan": 63.3,
+  "Kilicdaroglu": 36.7,
+  "Turnout": 87.7
+ },
+ {
+  "Province": "Sakarya",
+  "District": "AKYAZI",
+  "Erdogan": 81.6,
+  "Kilicdaroglu": 18.4,
+  "Turnout": 91.1
+ },
+ {
+  "Province": "Sakarya",
+  "District": "ARİFİYE",
+  "Erdogan": 71.4,
+  "Kilicdaroglu": 28.6,
+  "Turnout": 89
+ },
+ {
+  "Province": "Sakarya",
+  "District": "ERENLER",
+  "Erdogan": 73.1,
+  "Kilicdaroglu": 26.9,
+  "Turnout": 88.3
+ },
+ {
+  "Province": "Sakarya",
+  "District": "FERİZLİ",
+  "Erdogan": 72.1,
+  "Kilicdaroglu": 27.9,
+  "Turnout": 92.4
+ },
+ {
+  "Province": "Sakarya",
+  "District": "GEYVE",
+  "Erdogan": 72.2,
+  "Kilicdaroglu": 27.8,
+  "Turnout": 88.9
+ },
+ {
+  "Province": "Sakarya",
+  "District": "HENDEK",
+  "Erdogan": 72.9,
+  "Kilicdaroglu": 27.1,
+  "Turnout": 89.6
+ },
+ {
+  "Province": "Sakarya",
+  "District": "KARAPÜRÇEK",
+  "Erdogan": 80,
+  "Kilicdaroglu": 20,
+  "Turnout": 91
+ },
+ {
+  "Province": "Sakarya",
+  "District": "KARASU",
+  "Erdogan": 67.9,
+  "Kilicdaroglu": 32.1,
+  "Turnout": 85.7
+ },
+ {
+  "Province": "Sakarya",
+  "District": "KAYNARCA",
+  "Erdogan": 79.8,
+  "Kilicdaroglu": 20.2,
+  "Turnout": 91.4
+ },
+ {
+  "Province": "Sakarya",
+  "District": "KOCAALİ",
+  "Erdogan": 72.2,
+  "Kilicdaroglu": 27.8,
+  "Turnout": 88.2
+ },
+ {
+  "Province": "Sakarya",
+  "District": "PAMUKOVA",
+  "Erdogan": 72.1,
+  "Kilicdaroglu": 27.9,
+  "Turnout": 89.1
+ },
+ {
+  "Province": "Sakarya",
+  "District": "SAPANCA",
+  "Erdogan": 63.3,
+  "Kilicdaroglu": 36.7,
+  "Turnout": 89.5
+ },
+ {
+  "Province": "Sakarya",
+  "District": "SERDİVAN",
+  "Erdogan": 57.8,
+  "Kilicdaroglu": 42.2,
+  "Turnout": 87.9
+ },
+ {
+  "Province": "Sakarya",
+  "District": "SÖĞÜTLÜ",
+  "Erdogan": 67,
+  "Kilicdaroglu": 33,
+  "Turnout": 89.9
+ },
+ {
+  "Province": "Sakarya",
+  "District": "TARAKLI",
+  "Erdogan": 80.8,
+  "Kilicdaroglu": 19.2,
+  "Turnout": 92.9
+ },
+ {
+  "Province": "Samsun",
+  "District": "ALAÇAM",
+  "Erdogan": 64.6,
+  "Kilicdaroglu": 35.4,
+  "Turnout": 86.3
+ },
+ {
+  "Province": "Samsun",
+  "District": "ASARCIK",
+  "Erdogan": 86.7,
+  "Kilicdaroglu": 13.3,
+  "Turnout": 82.5
+ },
+ {
+  "Province": "Samsun",
+  "District": "ATAKUM",
+  "Erdogan": 45,
+  "Kilicdaroglu": 55,
+  "Turnout": 86.9
+ },
+ {
+  "Province": "Samsun",
+  "District": "AYVACIK",
+  "Erdogan": 87.4,
+  "Kilicdaroglu": 12.6,
+  "Turnout": 84.2
+ },
+ {
+  "Province": "Samsun",
+  "District": "BAFRA",
+  "Erdogan": 68.1,
+  "Kilicdaroglu": 31.9,
+  "Turnout": 85.6
+ },
+ {
+  "Province": "Samsun",
+  "District": "CANİK",
+  "Erdogan": 73.6,
+  "Kilicdaroglu": 26.4,
+  "Turnout": 85.7
+ },
+ {
+  "Province": "Samsun",
+  "District": "ÇARŞAMBA",
+  "Erdogan": 77.1,
+  "Kilicdaroglu": 22.9,
+  "Turnout": 85.7
+ },
+ {
+  "Province": "Samsun",
+  "District": "HAVZA",
+  "Erdogan": 71.6,
+  "Kilicdaroglu": 28.4,
+  "Turnout": 88
+ },
+ {
+  "Province": "Samsun",
+  "District": "İLKADIM",
+  "Erdogan": 57.7,
+  "Kilicdaroglu": 42.3,
+  "Turnout": 85.8
+ },
+ {
+  "Province": "Samsun",
+  "District": "KAVAK",
+  "Erdogan": 72.6,
+  "Kilicdaroglu": 27.4,
+  "Turnout": 88.6
+ },
+ {
+  "Province": "Samsun",
+  "District": "LADİK",
+  "Erdogan": 71.7,
+  "Kilicdaroglu": 28.3,
+  "Turnout": 86.9
+ },
+ {
+  "Province": "Samsun",
+  "District": "ONDOKUZ MAYIS",
+  "Erdogan": 77.1,
+  "Kilicdaroglu": 22.9,
+  "Turnout": 86.5
+ },
+ {
+  "Province": "Samsun",
+  "District": "SALIPAZARI",
+  "Erdogan": 80,
+  "Kilicdaroglu": 20,
+  "Turnout": 89.3
+ },
+ {
+  "Province": "Samsun",
+  "District": "TEKKEKÖY",
+  "Erdogan": 67.6,
+  "Kilicdaroglu": 32.4,
+  "Turnout": 88.7
+ },
+ {
+  "Province": "Samsun",
+  "District": "TERME",
+  "Erdogan": 77.2,
+  "Kilicdaroglu": 22.8,
+  "Turnout": 87.1
+ },
+ {
+  "Province": "Samsun",
+  "District": "VEZİRKÖPRÜ",
+  "Erdogan": 80.8,
+  "Kilicdaroglu": 19.2,
+  "Turnout": 85.7
+ },
+ {
+  "Province": "Samsun",
+  "District": "YAKAKENT",
+  "Erdogan": 64.6,
+  "Kilicdaroglu": 35.4,
+  "Turnout": 89
+ },
+ {
+  "Province": "Şanlıurfa",
+  "District": "AKÇAKALE",
+  "Erdogan": 92.9,
+  "Kilicdaroglu": 7.1,
+  "Turnout": 86.7
+ },
+ {
+  "Province": "Şanlıurfa",
+  "District": "BİRECİK",
+  "Erdogan": 58,
+  "Kilicdaroglu": 42,
+  "Turnout": 73.9
+ },
+ {
+  "Province": "Şanlıurfa",
+  "District": "BOZOVA",
+  "Erdogan": 58.8,
+  "Kilicdaroglu": 41.2,
+  "Turnout": 73.5
+ },
+ {
+  "Province": "Şanlıurfa",
+  "District": "CEYLANPINAR",
+  "Erdogan": 53.1,
+  "Kilicdaroglu": 46.9,
+  "Turnout": 79.9
+ },
+ {
+  "Province": "Şanlıurfa",
+  "District": "EYYÜBİYE",
+  "Erdogan": 79.3,
+  "Kilicdaroglu": 20.7,
+  "Turnout": 75.6
+ },
+ {
+  "Province": "Şanlıurfa",
+  "District": "HALFETİ",
+  "Erdogan": 42.3,
+  "Kilicdaroglu": 57.7,
+  "Turnout": 71
+ },
+ {
+  "Province": "Şanlıurfa",
+  "District": "HALİLİYE",
+  "Erdogan": 70.7,
+  "Kilicdaroglu": 29.3,
+  "Turnout": 80.2
+ },
+ {
+  "Province": "Şanlıurfa",
+  "District": "HARRAN",
+  "Erdogan": 95.3,
+  "Kilicdaroglu": 4.7,
+  "Turnout": 89.9
+ },
+ {
+  "Province": "Şanlıurfa",
+  "District": "HİLVAN",
+  "Erdogan": 57.3,
+  "Kilicdaroglu": 42.7,
+  "Turnout": 76
+ },
+ {
+  "Province": "Şanlıurfa",
+  "District": "KARAKÖPRÜ",
+  "Erdogan": 62.2,
+  "Kilicdaroglu": 37.8,
+  "Turnout": 83.8
+ },
+ {
+  "Province": "Şanlıurfa",
+  "District": "SİVEREK",
+  "Erdogan": 53.7,
+  "Kilicdaroglu": 46.3,
+  "Turnout": 70
+ },
+ {
+  "Province": "Şanlıurfa",
+  "District": "SURUÇ",
+  "Erdogan": 29.2,
+  "Kilicdaroglu": 70.8,
+  "Turnout": 72.2
+ },
+ {
+  "Province": "Şanlıurfa",
+  "District": "VİRANŞEHİR",
+  "Erdogan": 49.8,
+  "Kilicdaroglu": 50.2,
+  "Turnout": 77.7
+ },
+ {
+  "Province": "Siirt",
+  "District": "BAYKAN",
+  "Erdogan": 50,
+  "Kilicdaroglu": 50,
+  "Turnout": 74.7
+ },
+ {
+  "Province": "Siirt",
+  "District": "ERUH",
+  "Erdogan": 35.9,
+  "Kilicdaroglu": 64.1,
+  "Turnout": 80.2
+ },
+ {
+  "Province": "Siirt",
+  "District": "KURTALAN",
+  "Erdogan": 31.5,
+  "Kilicdaroglu": 68.5,
+  "Turnout": 74.3
+ },
+ {
+  "Province": "Siirt",
+  "District": "MERKEZ",
+  "Erdogan": 41.8,
+  "Kilicdaroglu": 58.2,
+  "Turnout": 80.2
+ },
+ {
+  "Province": "Siirt",
+  "District": "PERVARİ",
+  "Erdogan": 60.2,
+  "Kilicdaroglu": 39.8,
+  "Turnout": 80.3
+ },
+ {
+  "Province": "Siirt",
+  "District": "ŞİRVAN",
+  "Erdogan": 77,
+  "Kilicdaroglu": 23,
+  "Turnout": 77.8
+ },
+ {
+  "Province": "Siirt",
+  "District": "TİLLO",
+  "Erdogan": 82.9,
+  "Kilicdaroglu": 17.1,
+  "Turnout": 90.3
+ },
+ {
+  "Province": "Sinop",
+  "District": "AYANCIK",
+  "Erdogan": 62.6,
+  "Kilicdaroglu": 37.4,
+  "Turnout": 83.4
+ },
+ {
+  "Province": "Sinop",
+  "District": "BOYABAT",
+  "Erdogan": 72.3,
+  "Kilicdaroglu": 27.7,
+  "Turnout": 86
+ },
+ {
+  "Province": "Sinop",
+  "District": "DİKMEN",
+  "Erdogan": 80.2,
+  "Kilicdaroglu": 19.8,
+  "Turnout": 82
+ },
+ {
+  "Province": "Sinop",
+  "District": "DURAĞAN",
+  "Erdogan": 84.7,
+  "Kilicdaroglu": 15.3,
+  "Turnout": 86
+ },
+ {
+  "Province": "Sinop",
+  "District": "ERFELEK",
+  "Erdogan": 60.5,
+  "Kilicdaroglu": 39.5,
+  "Turnout": 84.5
+ },
+ {
+  "Province": "Sinop",
+  "District": "GERZE",
+  "Erdogan": 61.8,
+  "Kilicdaroglu": 38.2,
+  "Turnout": 85.6
+ },
+ {
+  "Province": "Sinop",
+  "District": "MERKEZ",
+  "Erdogan": 41.6,
+  "Kilicdaroglu": 58.4,
+  "Turnout": 87.3
+ },
+ {
+  "Province": "Sinop",
+  "District": "SARAYDÜZÜ",
+  "Erdogan": 79.8,
+  "Kilicdaroglu": 20.2,
+  "Turnout": 86.8
+ },
+ {
+  "Province": "Sinop",
+  "District": "TÜRKELİ",
+  "Erdogan": 80.1,
+  "Kilicdaroglu": 19.9,
+  "Turnout": 81.9
+ },
+ {
+  "Province": "Şırnak",
+  "District": "BEYTÜŞŞEBAP",
+  "Erdogan": 34.7,
+  "Kilicdaroglu": 65.3,
+  "Turnout": 75.8
+ },
+ {
+  "Province": "Şırnak",
+  "District": "CİZRE",
+  "Erdogan": 16.3,
+  "Kilicdaroglu": 83.7,
+  "Turnout": 80.8
+ },
+ {
+  "Province": "Şırnak",
+  "District": "GÜÇLÜKONAK",
+  "Erdogan": 30.3,
+  "Kilicdaroglu": 69.7,
+  "Turnout": 78.1
+ },
+ {
+  "Province": "Şırnak",
+  "District": "İDİL",
+  "Erdogan": 25.3,
+  "Kilicdaroglu": 74.7,
+  "Turnout": 72
+ },
+ {
+  "Province": "Şırnak",
+  "District": "MERKEZ",
+  "Erdogan": 34.9,
+  "Kilicdaroglu": 65.1,
+  "Turnout": 84.9
+ },
+ {
+  "Province": "Şırnak",
+  "District": "SİLOPİ",
+  "Erdogan": 19.7,
+  "Kilicdaroglu": 80.3,
+  "Turnout": 82.2
+ },
+ {
+  "Province": "Şırnak",
+  "District": "ULUDERE",
+  "Erdogan": 26.9,
+  "Kilicdaroglu": 73.1,
+  "Turnout": 72.9
+ },
+ {
+  "Province": "Sivas",
+  "District": "AKINCILAR",
+  "Erdogan": 78.2,
+  "Kilicdaroglu": 21.8,
+  "Turnout": 84.5
+ },
+ {
+  "Province": "Sivas",
+  "District": "ALTINYAYLA",
+  "Erdogan": 85.4,
+  "Kilicdaroglu": 14.6,
+  "Turnout": 85.4
+ },
+ {
+  "Province": "Sivas",
+  "District": "DİVRİĞİ",
+  "Erdogan": 29.7,
+  "Kilicdaroglu": 70.3,
+  "Turnout": 90.9
+ },
+ {
+  "Province": "Sivas",
+  "District": "DOĞANŞAR",
+  "Erdogan": 92.6,
+  "Kilicdaroglu": 7.4,
+  "Turnout": 86.8
+ },
+ {
+  "Province": "Sivas",
+  "District": "GEMEREK",
+  "Erdogan": 61.7,
+  "Kilicdaroglu": 38.3,
+  "Turnout": 82.5
+ },
+ {
+  "Province": "Sivas",
+  "District": "GÖLOVA",
+  "Erdogan": 84.3,
+  "Kilicdaroglu": 15.7,
+  "Turnout": 80.2
+ },
+ {
+  "Province": "Sivas",
+  "District": "GÜRÜN",
+  "Erdogan": 69.9,
+  "Kilicdaroglu": 30.1,
+  "Turnout": 83.2
+ },
+ {
+  "Province": "Sivas",
+  "District": "HAFİK",
+  "Erdogan": 61.2,
+  "Kilicdaroglu": 38.8,
+  "Turnout": 90.8
+ },
+ {
+  "Province": "Sivas",
+  "District": "İMRANLI",
+  "Erdogan": 35.8,
+  "Kilicdaroglu": 64.2,
+  "Turnout": 86.6
+ },
+ {
+  "Province": "Sivas",
+  "District": "KANGAL",
+  "Erdogan": 62.7,
+  "Kilicdaroglu": 37.3,
+  "Turnout": 85.6
+ },
+ {
+  "Province": "Sivas",
+  "District": "KOYULHİSAR",
+  "Erdogan": 77.2,
+  "Kilicdaroglu": 22.8,
+  "Turnout": 84.5
+ },
+ {
+  "Province": "Sivas",
+  "District": "MERKEZ",
+  "Erdogan": 76.4,
+  "Kilicdaroglu": 23.6,
+  "Turnout": 87.6
+ },
+ {
+  "Province": "Sivas",
+  "District": "ŞARKIŞLA",
+  "Erdogan": 74,
+  "Kilicdaroglu": 26,
+  "Turnout": 84.1
+ },
+ {
+  "Province": "Sivas",
+  "District": "SUŞEHRİ",
+  "Erdogan": 83.6,
+  "Kilicdaroglu": 16.4,
+  "Turnout": 87.2
+ },
+ {
+  "Province": "Sivas",
+  "District": "ULAŞ",
+  "Erdogan": 76.2,
+  "Kilicdaroglu": 23.8,
+  "Turnout": 89.2
+ },
+ {
+  "Province": "Sivas",
+  "District": "YILDIZELİ",
+  "Erdogan": 79.4,
+  "Kilicdaroglu": 20.6,
+  "Turnout": 84.1
+ },
+ {
+  "Province": "Sivas",
+  "District": "ZARA",
+  "Erdogan": 62,
+  "Kilicdaroglu": 38,
+  "Turnout": 88.1
+ },
+ {
+  "Province": "Tekirdağ",
+  "District": "ÇERKEZKÖY",
+  "Erdogan": 49,
+  "Kilicdaroglu": 51,
+  "Turnout": 86.4
+ },
+ {
+  "Province": "Tekirdağ",
+  "District": "ÇORLU",
+  "Erdogan": 35.5,
+  "Kilicdaroglu": 64.5,
+  "Turnout": 87.1
+ },
+ {
+  "Province": "Tekirdağ",
+  "District": "ERGENE",
+  "Erdogan": 41.3,
+  "Kilicdaroglu": 58.7,
+  "Turnout": 87.8
+ },
+ {
+  "Province": "Tekirdağ",
+  "District": "HAYRABOLU",
+  "Erdogan": 40.1,
+  "Kilicdaroglu": 59.9,
+  "Turnout": 88.8
+ },
+ {
+  "Province": "Tekirdağ",
+  "District": "KAPAKLI",
+  "Erdogan": 54,
+  "Kilicdaroglu": 46,
+  "Turnout": 87
+ },
+ {
+  "Province": "Tekirdağ",
+  "District": "MALKARA",
+  "Erdogan": 42.9,
+  "Kilicdaroglu": 57.1,
+  "Turnout": 88.4
+ },
+ {
+  "Province": "Tekirdağ",
+  "District": "MARMARAEREĞLİSİ",
+  "Erdogan": 36.5,
+  "Kilicdaroglu": 63.5,
+  "Turnout": 85.5
+ },
+ {
+  "Province": "Tekirdağ",
+  "District": "MURATLI",
+  "Erdogan": 33.3,
+  "Kilicdaroglu": 66.7,
+  "Turnout": 89
+ },
+ {
+  "Province": "Tekirdağ",
+  "District": "SARAY",
+  "Erdogan": 33,
+  "Kilicdaroglu": 67,
+  "Turnout": 89.7
+ },
+ {
+  "Province": "Tekirdağ",
+  "District": "ŞARKÖY",
+  "Erdogan": 35.8,
+  "Kilicdaroglu": 64.2,
+  "Turnout": 85.5
+ },
+ {
+  "Province": "Tekirdağ",
+  "District": "SÜLEYMANPAŞA",
+  "Erdogan": 36.1,
+  "Kilicdaroglu": 63.9,
+  "Turnout": 88.2
+ },
+ {
+  "Province": "Tokat",
+  "District": "ALMUS",
+  "Erdogan": 51.6,
+  "Kilicdaroglu": 48.4,
+  "Turnout": 88.1
+ },
+ {
+  "Province": "Tokat",
+  "District": "ARTOVA",
+  "Erdogan": 71.5,
+  "Kilicdaroglu": 28.5,
+  "Turnout": 92.7
+ },
+ {
+  "Province": "Tokat",
+  "District": "BAŞÇİFTLİK",
+  "Erdogan": 72.1,
+  "Kilicdaroglu": 27.9,
+  "Turnout": 78.2
+ },
+ {
+  "Province": "Tokat",
+  "District": "ERBAA",
+  "Erdogan": 70.7,
+  "Kilicdaroglu": 29.3,
+  "Turnout": 87.3
+ },
+ {
+  "Province": "Tokat",
+  "District": "MERKEZ",
+  "Erdogan": 69,
+  "Kilicdaroglu": 31,
+  "Turnout": 90.2
+ },
+ {
+  "Province": "Tokat",
+  "District": "NİKSAR",
+  "Erdogan": 62.9,
+  "Kilicdaroglu": 37.1,
+  "Turnout": 88.3
+ },
+ {
+  "Province": "Tokat",
+  "District": "PAZAR",
+  "Erdogan": 81.1,
+  "Kilicdaroglu": 18.9,
+  "Turnout": 91.7
+ },
+ {
+  "Province": "Tokat",
+  "District": "REŞADİYE",
+  "Erdogan": 72.6,
+  "Kilicdaroglu": 27.4,
+  "Turnout": 83.8
+ },
+ {
+  "Province": "Tokat",
+  "District": "SULUSARAY",
+  "Erdogan": 86.6,
+  "Kilicdaroglu": 13.4,
+  "Turnout": 89.3
+ },
+ {
+  "Province": "Tokat",
+  "District": "TURHAL",
+  "Erdogan": 61.4,
+  "Kilicdaroglu": 38.6,
+  "Turnout": 88.9
+ },
+ {
+  "Province": "Tokat",
+  "District": "YEŞİLYURT",
+  "Erdogan": 79.8,
+  "Kilicdaroglu": 20.2,
+  "Turnout": 87.1
+ },
+ {
+  "Province": "Tokat",
+  "District": "ZİLE",
+  "Erdogan": 53,
+  "Kilicdaroglu": 47,
+  "Turnout": 89.4
+ },
+ {
+  "Province": "Trabzon",
+  "District": "AKÇAABAT",
+  "Erdogan": 70.2,
+  "Kilicdaroglu": 29.8,
+  "Turnout": 87.8
+ },
+ {
+  "Province": "Trabzon",
+  "District": "ARAKLI",
+  "Erdogan": 85,
+  "Kilicdaroglu": 15,
+  "Turnout": 82.3
+ },
+ {
+  "Province": "Trabzon",
+  "District": "ARSİN",
+  "Erdogan": 82.3,
+  "Kilicdaroglu": 17.7,
+  "Turnout": 85.9
+ },
+ {
+  "Province": "Trabzon",
+  "District": "BEŞİKDÜZÜ",
+  "Erdogan": 47.4,
+  "Kilicdaroglu": 52.6,
+  "Turnout": 86.6
+ },
+ {
+  "Province": "Trabzon",
+  "District": "ÇARŞIBAŞI",
+  "Erdogan": 73.8,
+  "Kilicdaroglu": 26.2,
+  "Turnout": 87.5
+ },
+ {
+  "Province": "Trabzon",
+  "District": "ÇAYKARA",
+  "Erdogan": 78.1,
+  "Kilicdaroglu": 21.9,
+  "Turnout": 84.9
+ },
+ {
+  "Province": "Trabzon",
+  "District": "DERNEKPAZARI",
+  "Erdogan": 84.8,
+  "Kilicdaroglu": 15.2,
+  "Turnout": 87.5
+ },
+ {
+  "Province": "Trabzon",
+  "District": "DÜZKÖY",
+  "Erdogan": 67.4,
+  "Kilicdaroglu": 32.6,
+  "Turnout": 84
+ },
+ {
+  "Province": "Trabzon",
+  "District": "HAYRAT",
+  "Erdogan": 90.7,
+  "Kilicdaroglu": 9.3,
+  "Turnout": 89
+ },
+ {
+  "Province": "Trabzon",
+  "District": "KÖPRÜBAŞI",
+  "Erdogan": 87,
+  "Kilicdaroglu": 13,
+  "Turnout": 82.7
+ },
+ {
+  "Province": "Trabzon",
+  "District": "MAÇKA",
+  "Erdogan": 72.8,
+  "Kilicdaroglu": 27.2,
+  "Turnout": 86.4
+ },
+ {
+  "Province": "Trabzon",
+  "District": "OF",
+  "Erdogan": 84.3,
+  "Kilicdaroglu": 15.7,
+  "Turnout": 87.9
+ },
+ {
+  "Province": "Trabzon",
+  "District": "ORTAHİSAR",
+  "Erdogan": 61.2,
+  "Kilicdaroglu": 38.8,
+  "Turnout": 86.6
+ },
+ {
+  "Province": "Trabzon",
+  "District": "ŞALPAZARI",
+  "Erdogan": 74.9,
+  "Kilicdaroglu": 25.1,
+  "Turnout": 89.8
+ },
+ {
+  "Province": "Trabzon",
+  "District": "SÜRMENE",
+  "Erdogan": 76.9,
+  "Kilicdaroglu": 23.1,
+  "Turnout": 83.8
+ },
+ {
+  "Province": "Trabzon",
+  "District": "TONYA",
+  "Erdogan": 63.2,
+  "Kilicdaroglu": 36.8,
+  "Turnout": 85.2
+ },
+ {
+  "Province": "Trabzon",
+  "District": "VAKFIKEBİR",
+  "Erdogan": 71,
+  "Kilicdaroglu": 29,
+  "Turnout": 87.5
+ },
+ {
+  "Province": "Trabzon",
+  "District": "YOMRA",
+  "Erdogan": 69.9,
+  "Kilicdaroglu": 30.1,
+  "Turnout": 85.1
+ },
+ {
+  "Province": "Tunceli",
+  "District": "ÇEMİŞGEZEK",
+  "Erdogan": 52.9,
+  "Kilicdaroglu": 47.1,
+  "Turnout": 85.5
+ },
+ {
+  "Province": "Tunceli",
+  "District": "HOZAT",
+  "Erdogan": 13.4,
+  "Kilicdaroglu": 86.6,
+  "Turnout": 88.3
+ },
+ {
+  "Province": "Tunceli",
+  "District": "MAZGİRT",
+  "Erdogan": 13.5,
+  "Kilicdaroglu": 86.5,
+  "Turnout": 85.9
+ },
+ {
+  "Province": "Tunceli",
+  "District": "MERKEZ",
+  "Erdogan": 12.4,
+  "Kilicdaroglu": 87.6,
+  "Turnout": 87.2
+ },
+ {
+  "Province": "Tunceli",
+  "District": "NAZIMİYE",
+  "Erdogan": 11.1,
+  "Kilicdaroglu": 88.9,
+  "Turnout": 91
+ },
+ {
+  "Province": "Tunceli",
+  "District": "OVACIK",
+  "Erdogan": 9.7,
+  "Kilicdaroglu": 90.3,
+  "Turnout": 87.6
+ },
+ {
+  "Province": "Tunceli",
+  "District": "PERTEK",
+  "Erdogan": 23.4,
+  "Kilicdaroglu": 76.6,
+  "Turnout": 88.2
+ },
+ {
+  "Province": "Tunceli",
+  "District": "PÜLÜMÜR",
+  "Erdogan": 11.4,
+  "Kilicdaroglu": 88.6,
+  "Turnout": 90
+ },
+ {
+  "Province": "Uşak",
+  "District": "BANAZ",
+  "Erdogan": 53.4,
+  "Kilicdaroglu": 46.6,
+  "Turnout": 86.7
+ },
+ {
+  "Province": "Uşak",
+  "District": "EŞME",
+  "Erdogan": 44.6,
+  "Kilicdaroglu": 55.4,
+  "Turnout": 86.6
+ },
+ {
+  "Province": "Uşak",
+  "District": "KARAHALLI",
+  "Erdogan": 53.8,
+  "Kilicdaroglu": 46.2,
+  "Turnout": 87.3
+ },
+ {
+  "Province": "Uşak",
+  "District": "MERKEZ",
+  "Erdogan": 51.8,
+  "Kilicdaroglu": 48.2,
+  "Turnout": 88.3
+ },
+ {
+  "Province": "Uşak",
+  "District": "SİVASLI",
+  "Erdogan": 51.4,
+  "Kilicdaroglu": 48.6,
+  "Turnout": 88.3
+ },
+ {
+  "Province": "Uşak",
+  "District": "ULUBEY",
+  "Erdogan": 43.8,
+  "Kilicdaroglu": 56.2,
+  "Turnout": 88.7
+ },
+ {
+  "Province": "Van",
+  "District": "BAHÇESARAY",
+  "Erdogan": 60.4,
+  "Kilicdaroglu": 39.6,
+  "Turnout": 74.8
+ },
+ {
+  "Province": "Van",
+  "District": "BAŞKALE",
+  "Erdogan": 23,
+  "Kilicdaroglu": 77,
+  "Turnout": 70.3
+ },
+ {
+  "Province": "Van",
+  "District": "ÇALDIRAN",
+  "Erdogan": 30.1,
+  "Kilicdaroglu": 69.9,
+  "Turnout": 62
+ },
+ {
+  "Province": "Van",
+  "District": "ÇATAK",
+  "Erdogan": 38.4,
+  "Kilicdaroglu": 61.6,
+  "Turnout": 76.4
+ },
+ {
+  "Province": "Van",
+  "District": "EDREMİT",
+  "Erdogan": 36.8,
+  "Kilicdaroglu": 63.2,
+  "Turnout": 77.3
+ },
+ {
+  "Province": "Van",
+  "District": "ERCİŞ",
+  "Erdogan": 46.8,
+  "Kilicdaroglu": 53.2,
+  "Turnout": 65.2
+ },
+ {
+  "Province": "Van",
+  "District": "GEVAŞ",
+  "Erdogan": 53,
+  "Kilicdaroglu": 47,
+  "Turnout": 76.3
+ },
+ {
+  "Province": "Van",
+  "District": "GÜRPINAR",
+  "Erdogan": 46.6,
+  "Kilicdaroglu": 53.4,
+  "Turnout": 71.5
+ },
+ {
+  "Province": "Van",
+  "District": "İPEKYOLU",
+  "Erdogan": 38.5,
+  "Kilicdaroglu": 61.5,
+  "Turnout": 77.5
+ },
+ {
+  "Province": "Van",
+  "District": "MURADİYE",
+  "Erdogan": 35.5,
+  "Kilicdaroglu": 64.5,
+  "Turnout": 62.2
+ },
+ {
+  "Province": "Van",
+  "District": "ÖZALP",
+  "Erdogan": 19.6,
+  "Kilicdaroglu": 80.4,
+  "Turnout": 65.3
+ },
+ {
+  "Province": "Van",
+  "District": "SARAY",
+  "Erdogan": 28.3,
+  "Kilicdaroglu": 71.7,
+  "Turnout": 67.2
+ },
+ {
+  "Province": "Van",
+  "District": "TUŞBA",
+  "Erdogan": 40.4,
+  "Kilicdaroglu": 59.6,
+  "Turnout": 71.8
+ },
+ {
+  "Province": "Yalova",
+  "District": "ALTINOVA",
+  "Erdogan": 57.2,
+  "Kilicdaroglu": 42.8,
+  "Turnout": 87
+ },
+ {
+  "Province": "Yalova",
+  "District": "ARMUTLU",
+  "Erdogan": 59.7,
+  "Kilicdaroglu": 40.3,
+  "Turnout": 83.2
+ },
+ {
+  "Province": "Yalova",
+  "District": "ÇİFTLİKKÖY",
+  "Erdogan": 49.4,
+  "Kilicdaroglu": 50.6,
+  "Turnout": 84.7
+ },
+ {
+  "Province": "Yalova",
+  "District": "ÇINARCIK",
+  "Erdogan": 46.2,
+  "Kilicdaroglu": 53.8,
+  "Turnout": 82
+ },
+ {
+  "Province": "Yalova",
+  "District": "MERKEZ",
+  "Erdogan": 49,
+  "Kilicdaroglu": 51,
+  "Turnout": 82.9
+ },
+ {
+  "Province": "Yalova",
+  "District": "TERMAL",
+  "Erdogan": 63.6,
+  "Kilicdaroglu": 36.4,
+  "Turnout": 86.5
+ },
+ {
+  "Province": "Yozgat",
+  "District": "AKDAĞMADENİ",
+  "Erdogan": 81.2,
+  "Kilicdaroglu": 18.8,
+  "Turnout": 77.9
+ },
+ {
+  "Province": "Yozgat",
+  "District": "AYDINCIK",
+  "Erdogan": 80.5,
+  "Kilicdaroglu": 19.5,
+  "Turnout": 89.7
+ },
+ {
+  "Province": "Yozgat",
+  "District": "BOĞAZLIYAN",
+  "Erdogan": 63.3,
+  "Kilicdaroglu": 36.7,
+  "Turnout": 85.4
+ },
+ {
+  "Province": "Yozgat",
+  "District": "ÇANDIR",
+  "Erdogan": 68.5,
+  "Kilicdaroglu": 31.5,
+  "Turnout": 80
+ },
+ {
+  "Province": "Yozgat",
+  "District": "ÇAYIRALAN",
+  "Erdogan": 68.1,
+  "Kilicdaroglu": 31.9,
+  "Turnout": 72.3
+ },
+ {
+  "Province": "Yozgat",
+  "District": "ÇEKEREK",
+  "Erdogan": 79.5,
+  "Kilicdaroglu": 20.5,
+  "Turnout": 88.8
+ },
+ {
+  "Province": "Yozgat",
+  "District": "KADIŞEHRİ",
+  "Erdogan": 86.9,
+  "Kilicdaroglu": 13.1,
+  "Turnout": 87.8
+ },
+ {
+  "Province": "Yozgat",
+  "District": "MERKEZ",
+  "Erdogan": 73.8,
+  "Kilicdaroglu": 26.2,
+  "Turnout": 88.7
+ },
+ {
+  "Province": "Yozgat",
+  "District": "SARAYKENT",
+  "Erdogan": 89.5,
+  "Kilicdaroglu": 10.5,
+  "Turnout": 78.3
+ },
+ {
+  "Province": "Yozgat",
+  "District": "SARIKAYA",
+  "Erdogan": 83.6,
+  "Kilicdaroglu": 16.4,
+  "Turnout": 78.2
+ },
+ {
+  "Province": "Yozgat",
+  "District": "ŞEFAATLİ",
+  "Erdogan": 69.1,
+  "Kilicdaroglu": 30.9,
+  "Turnout": 84.3
+ },
+ {
+  "Province": "Yozgat",
+  "District": "SORGUN",
+  "Erdogan": 83,
+  "Kilicdaroglu": 17,
+  "Turnout": 85.8
+ },
+ {
+  "Province": "Yozgat",
+  "District": "YENİFAKILI",
+  "Erdogan": 58.8,
+  "Kilicdaroglu": 41.2,
+  "Turnout": 87
+ },
+ {
+  "Province": "Yozgat",
+  "District": "YERKÖY",
+  "Erdogan": 70.4,
+  "Kilicdaroglu": 29.6,
+  "Turnout": 84.3
+ },
+ {
+  "Province": "Zonguldak",
+  "District": "ALAPLI",
+  "Erdogan": 65.1,
+  "Kilicdaroglu": 34.9,
+  "Turnout": 88.5
+ },
+ {
+  "Province": "Zonguldak",
+  "District": "ÇAYCUMA",
+  "Erdogan": 55.4,
+  "Kilicdaroglu": 44.6,
+  "Turnout": 87.1
+ },
+ {
+  "Province": "Zonguldak",
+  "District": "DEVREK",
+  "Erdogan": 64.2,
+  "Kilicdaroglu": 35.8,
+  "Turnout": 82.7
+ },
+ {
+  "Province": "Zonguldak",
+  "District": "EREĞLİ",
+  "Erdogan": 54.9,
+  "Kilicdaroglu": 45.1,
+  "Turnout": 87.7
+ },
+ {
+  "Province": "Zonguldak",
+  "District": "GÖKÇEBEY",
+  "Erdogan": 54.8,
+  "Kilicdaroglu": 45.2,
+  "Turnout": 84.7
+ },
+ {
+  "Province": "Zonguldak",
+  "District": "KİLİMLİ",
+  "Erdogan": 50.8,
+  "Kilicdaroglu": 49.2,
+  "Turnout": 85.3
+ },
+ {
+  "Province": "Zonguldak",
+  "District": "KOZLU",
+  "Erdogan": 54,
+  "Kilicdaroglu": 46,
+  "Turnout": 85.6
+ },
+ {
+  "Province": "Zonguldak",
+  "District": "MERKEZ",
+  "Erdogan": 47,
+  "Kilicdaroglu": 53,
+  "Turnout": 84.8
+ }
+]
